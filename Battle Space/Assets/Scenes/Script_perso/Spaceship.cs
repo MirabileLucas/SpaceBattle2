@@ -44,11 +44,7 @@ public class Spaceship : MonoBehaviour {
         //rb.MoveRotation(angle * speed);
         //rb.MoveRotation(Mathf.LerpAngle(rb.rotation, 180.0f, 1.0f* Time.deltaTime));
         rb.AddTorque(transform.position.y * torque * moveHorizontal);
-        transform.position = new Vector2    //if 'Player' crossed the movement borders, returning him back 
-                (
-                Mathf.Clamp(transform.position.x, borders.minX, borders.maxX),
-                Mathf.Clamp(transform.position.y, borders.minY, borders.maxY)
-                );
+       
 #endif
 #if UNITY_IOS || UNITY_ANDROID //if current platform is mobile, 
 
@@ -60,5 +56,10 @@ public class Spaceship : MonoBehaviour {
             transform.position = Vector3.MoveTowards(transform.position, touchPosition, 30 * Time.deltaTime);
         }
 #endif
+        transform.position = new Vector2    //if 'Player' crossed the movement borders, returning him back 
+               (
+               Mathf.Clamp(transform.position.x, borders.minX, borders.maxX),
+               Mathf.Clamp(transform.position.y, borders.minY, borders.maxY)
+               );
     }
 }
