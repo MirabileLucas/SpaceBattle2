@@ -918,7 +918,7 @@ CircleCollider2D:
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
-  m_Radius: 0.5625
+  m_Radius: 0.4285698
 --- !u!1 &247895164
 GameObject:
   m_ObjectHideFlags: 0
@@ -928,7 +928,7 @@ GameObject:
   m_Component:
   - component: {fileID: 247895165}
   m_Layer: 0
-  m_Name: Etoiles
+  m_Name: BackGround - Etoiles
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1408,9 +1408,9 @@ CircleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.000002861023, y: 0}
+  m_Offset: {x: 0.0000027909898, y: 0.0306071}
   serializedVersion: 2
-  m_Radius: 5.12
+  m_Radius: 4.313177
 --- !u!1 &461623478
 GameObject:
   m_ObjectHideFlags: 0
@@ -1955,9 +1955,9 @@ CircleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0, y: -0.03348255}
   serializedVersion: 2
-  m_Radius: 0.5625
+  m_Radius: 0.43526745
 --- !u!1 &540288325
 GameObject:
   m_ObjectHideFlags: 0
@@ -3384,9 +3384,9 @@ CircleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0, y: -0.053572655}
   serializedVersion: 2
-  m_Radius: 0.5625
+  m_Radius: 0.40848064
 --- !u!1 &885010418
 GameObject:
   m_ObjectHideFlags: 0
@@ -3948,9 +3948,9 @@ CircleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.0000038146973, y: 0.0000076293945}
+  m_Offset: {x: -0.23882098, y: 0.21461207}
   serializedVersion: 2
-  m_Radius: 5.1200013
+  m_Radius: 4.672099
 --- !u!1 &938806359
 GameObject:
   m_ObjectHideFlags: 0
@@ -4241,9 +4241,9 @@ CircleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0.02680111, y: -0.030134201}
   serializedVersion: 2
-  m_Radius: 0.5625
+  m_Radius: 0.40511608
 --- !u!1 &1067878374
 GameObject:
   m_ObjectHideFlags: 0
@@ -4423,9 +4423,9 @@ CircleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0, y: -0.040180206}
   serializedVersion: 2
-  m_Radius: 0.5625
+  m_Radius: 0.4285698
 --- !u!1 &1125487439
 GameObject:
   m_ObjectHideFlags: 0
@@ -4517,9 +4517,9 @@ CircleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: -0.0000038146973}
+  m_Offset: {x: 0.058628224, y: -0.0000048415222}
   serializedVersion: 2
-  m_Radius: 5.12
+  m_Radius: 4.592461
 --- !u!1 &1130242515
 GameObject:
   m_ObjectHideFlags: 0
@@ -5887,9 +5887,9 @@ CircleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0, y: -0.026785731}
   serializedVersion: 2
-  m_Radius: 0.5625
+  m_Radius: 0.42187393
 --- !u!1 &1686241701
 GameObject:
   m_ObjectHideFlags: 0
@@ -6161,9 +6161,9 @@ CircleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0, y: 0.15266037}
   serializedVersion: 2
-  m_Radius: 1
+  m_Radius: 0.69467926
 --- !u!1 &1783090595
 GameObject:
   m_ObjectHideFlags: 0
@@ -6541,9 +6541,9 @@ CircleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.000012397766, y: 0}
+  m_Offset: {x: 0.15015742, y: -0.17950478}
   serializedVersion: 2
-  m_Radius: 5.120001
+  m_Radius: 3.8312473
 --- !u!1 &1842663487
 GameObject:
   m_ObjectHideFlags: 0
@@ -6908,9 +6908,9 @@ CircleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0, y: -0.033481598}
   serializedVersion: 2
-  m_Radius: 0.5625
+  m_Radius: 0.4352684
 --- !u!1 &1932202446
 GameObject:
   m_ObjectHideFlags: 0
@@ -6999,9 +6999,9 @@ CircleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0, y: 0.013393402}
   serializedVersion: 2
-  m_Radius: 0.5625
+  m_Radius: 0.4419632
 --- !u!1 &1935354024
 GameObject:
   m_ObjectHideFlags: 0
@@ -7181,9 +7181,9 @@ CircleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0, y: 0.036830902}
   serializedVersion: 2
-  m_Radius: 0.5625
+  m_Radius: 0.458704
 --- !u!1 &1991896704
 GameObject:
   m_ObjectHideFlags: 0
@@ -7550,9 +7550,9 @@ CircleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.0000076293945, y: -0.000015258789}
+  m_Offset: {x: -0.000007675729, y: -0.25021547}
   serializedVersion: 2
-  m_Radius: 5.1200004
+  m_Radius: 3.8308249
 --- !u!1 &2049015099
 GameObject:
   m_ObjectHideFlags: 0
@@ -7654,7 +7654,7 @@ GameObject:
   - component: {fileID: 2117553720}
   - component: {fileID: 2117553721}
   m_Layer: 0
-  m_Name: GameObject
+  m_Name: Fond
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
