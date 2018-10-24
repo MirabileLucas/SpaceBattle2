@@ -20,6 +20,12 @@ public class Spaceship : MonoBehaviour {
     private Rigidbody2D rb;
     Camera mainCamera;
     public Joystick joystick;
+
+    public GameObject shot;
+    public Transform shotSpawnPoint;
+    public float fireRate;
+    private float nextFire;
+
     // Use this for initialization
     void Start () {
         mainCamera = Camera.main;
@@ -41,7 +47,7 @@ public class Spaceship : MonoBehaviour {
             transform.rotation = Quaternion.LookRotation(Vector3.forward, moveVector);
             transform.Translate(moveVector * speed * Time.deltaTime, Space.World);
         }
-
+        
 
 
         /*#if UNITY_STANDALONE || UNITY_EDITOR
@@ -75,4 +81,13 @@ public class Spaceship : MonoBehaviour {
                Mathf.Clamp(transform.position.y, borders.minY, borders.maxY)
                );
     }
+    public void shoot()
+    {
+        if (Time.time > nextFire)
+        {
+            nextFire = Time.time + fireRate;
+            Instantiate(shot, shotSpawnPoint.position, shotSpawnPoint.rotation);
+        }
+    } 
+   
 }
