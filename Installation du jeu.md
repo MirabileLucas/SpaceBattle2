@@ -14,4 +14,8 @@ Sur téléphone Android
 * En cliquant dessus, un message indiquant que l'installation est bloquée peut apparaître.
 * Dans ce cas, cliquez sur paramètres et cocher "_Sources inconnues_".
 * L'installation commence alors.
-* Vous pouvez maintenant jouer.  
+* A la fin, lancez le jeu.
+* Lorsqu'il se lance, une petite fenetre s'ouvre en haut à gauche. Cliquez sur "_LAN Host(H)_".
+* Vous pouvez maintenant jouer.
+
+_Remarque : Quatre bonus sont implémentés (les boules de couleurs). Cependant le turbo (bonus bleu) est dangereux. Si l'on tire en se déplacant, le tire étant moins rapide on se tue sur son propre tir._ 
