@@ -48,9 +48,7 @@ _Présent seulement dans la première carte_
 Représentation : Boule verte
 Ravitaille le vaisseau en carburant.
 
-
 ## Installation
-
 ### Sur téléphone Android
 #### Téléchargement
 Les différentes versions du jeu sont disponibles dans le dépôt Github, dans le répertoire APK_SpaceBattle. La liste des versions et une courte description sont disponibles dans le fichier "_liste versions_".
@@ -63,15 +61,25 @@ Les différentes versions du jeu sont disponibles dans le dépôt Github, dans l
 * Dans ce cas, cliquez sur paramètres et cocher "_Sources inconnues_".
 * L'installation commence alors.
 * A la fin, lancez le jeu.
-* Lorsqu'il se lance, une petite fenetre s'ouvre en haut à gauche. Cliquez sur "_LAN Host(H)_".
-* Vous pouvez maintenant jouer.
 
 _Remarque : L'installation pose problèmes sur certains téléphones sans explications_
 
 ### Pour le développeur
 
 ## Utilisation
+### Commandes
+En jeu, les deux commandes principales sont le déplacement qui s'effectue à l'aide du Joystick Virtuel en-bas à gauche de l'écran (plus vous le tirer plus la vitesse est élevée) et le tir qui se trouve à l'opposé (un tir continu est impossible).
+### Créer une partie
+Lors du lancement de l'application, le menu propose deux options. Pour créer une partie choisissez la première. Un nouvel écran s'ouvre proposant les différents paramètres à modifier pour créer une partie. 
 
+A ce niveau du projet, seuls les options concernant le nombre de joueurs et le mode de jeu sont utilisables. 
+Pour créer une partie en ligne, il faut donc choisir _DeatchMatch_, le nombre de joueurs max autorisé ainsi que le nom de la partie. Ensuite vous pouvez lancer.
+Pour jouer seul, le mode de jeu est le seul paramètre utile, il faut choisir _Entrainement_ et _Lancer_.
+### Rejoindre une partie
+Pour rejoindre une partie, sélectionner dans le menu de départ le bouton _Rejoindre une partie_. Un nouvel écran s'affiche avec la liste de toutes les parties en cours. Sélectionnez en une pour la rejoindre.
+
+### Paramètres
+Permet de quitter l'application et de modifier le volume sonore. En jeu, cela permet aussi de quitter la partie en cours. 
 ## Architecture
 
 ## Guide de développement
