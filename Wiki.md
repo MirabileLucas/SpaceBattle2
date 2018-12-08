@@ -76,15 +76,14 @@ A ce niveau du projet, seuls les options concernant le nombre de joueurs et le m
 Pour créer une partie en ligne, il faut donc choisir _DeatchMatch_, le nombre de joueurs max autorisé ainsi que le nom de la partie. Ensuite vous pouvez lancer (vous êtes à la fois client et hôte).
 
 Pour jouer seul, le mode de jeu est le seul paramètre utile, il faut choisir _Entrainement_ et _Lancer_.
+
 ### Rejoindre une partie
 Pour rejoindre une partie, sélectionner dans le menu de départ le bouton _Rejoindre une partie_. Un nouvel écran s'affiche avec la liste de toutes les parties en cours. Sélectionnez en une pour la rejoindre (vous êtes client).
 
 ### Paramètres
 Permet de quitter l'application et de modifier le volume sonore. En jeu, cela permet aussi de quitter la partie en cours. 
 
-## Architecture
-
-## Guide de développement
+## Architecture & Guide de développement
 
 ## Points techniques
 
@@ -101,8 +100,31 @@ Du côté des bonus, leur apparition est propre aux joueurs. C'est à dire que c
 Lors de l'élaboration du cahier des charges, de nombreuses fonctionnalités avait été discutées tel que la création de 4 modes de jeu, de l'implémentation d'un harpon, etc. Ceux-ci n'ont pas encore été réalisé.
 L'implémentation d'une jauge de carburant a été effectuée dans la partie solo mais n'est pas encore présente dans le multi (ainsi que son bonus associé).
 
-Au niveau du code, nous avons dupliqué énormément de code entre les fonctionnalités solo et multi. Une évolution serait de fusionner ses fichiers pour un projet plus propre.
+Au niveau du code, nous avons dupliqué énormément de code entre les fonctionnalités solo et multi. Une évolution serait de fusionner ces fichiers pour un projet plus propre.
 
 Une nouvelle organisation à l'aide de Design Patern serait envisageable, comme par exemple pour les bonus, les tirs, ...
-## Conseils
+
+## Trucs et astuces
+La documentation Unity est très approfondie, il existe de nombreux tuto, forums et autres qui en parle. Il existe aussi le Unity Store qui fournit de nombreux éléments (certains gratuits), il est très intéressant de les utiliser.
+
+### Assets utilisés
+#### Joystick Virtuel
+https://assetstore.unity.com/packages/tools/input-management/joystick-pack-107631
+#### Vaisseaux
+https://assetstore.unity.com/packages/2d/textures-materials/simple-spaceships-81051
+#### Graphismes spatiaux
+https://assetstore.unity.com/packages/templates/systems/space-graphics-basic-pack-119857
+#### Exemple d'un jeu simple et récupération de graphisme
+https://assetstore.unity.com/packages/templates/packs/space-shooter-free-107260
+
+### Partage du projet
 Pour le partage du projet, nous avons essayé d'utiliser GitHub mais suite à des problèmes nous avons préféré utiliser le _collab_ de Unity. Cependant, sa version gratuite n'accepte que trois "sièges". C'est à dire que seulement trois personnes peuvent collaborer sur un projet.
+
+### Liens utiles
+#### Documentation C#
+https://blog.rsuter.com/best-practices-for-writing-xml-documentation-phrases-in-c/
+https://docs.microsoft.com/fr-fr/dotnet/csharp/codedoc
+#### Documentation Unity
+https://docs.unity3d.com/Manual/UnityManual.html
+#### Tutoriel - Mini jeu en ligne
+https://www.youtube.com/watch?v=UWF9tKcUWjg&list=PLUWxWDlz8PYL0H3j6BxR4DXcJGj4YP2T5
