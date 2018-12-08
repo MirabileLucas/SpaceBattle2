@@ -120,9 +120,14 @@ https://assetstore.unity.com/packages/templates/packs/space-shooter-free-107260
 ### Partage du projet
 Pour le partage du projet, nous avons essayé d'utiliser GitHub mais suite à des problèmes nous avons préféré utiliser le _collab_ de Unity. Cependant, sa version gratuite n'accepte que trois "sièges". C'est à dire que seulement trois personnes peuvent collaborer sur un projet.
 
+### Débuggage
+Pour débugger, pensez à mettre les variables de vos scripts en public dans un premier temps pour pouvoir voir leur évolutions en temps réel lorsque vous lancer l'application via Unity.
+Si vous avez un problème lié au réseau, vérifiez en priorité l'autorité de vos éléments. Pour cela, cliquez dessus dans la hiérarchie à gauche et elle s'affichera en bas de l'inspecteur.
+
 ### Liens utiles
 #### Documentation C#
 https://blog.rsuter.com/best-practices-for-writing-xml-documentation-phrases-in-c/
+
 https://docs.microsoft.com/fr-fr/dotnet/csharp/codedoc
 #### Documentation Unity
 https://docs.unity3d.com/Manual/UnityManual.html
