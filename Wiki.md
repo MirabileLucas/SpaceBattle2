@@ -81,6 +81,7 @@ Pour rejoindre une partie, sélectionner dans le menu de départ le bouton _Rejo
 
 ### Paramètres
 Permet de quitter l'application et de modifier le volume sonore. En jeu, cela permet aussi de quitter la partie en cours. 
+
 ## Architecture
 
 ## Guide de développement
@@ -90,9 +91,18 @@ Permet de quitter l'application et de modifier le volume sonore. En jeu, cela pe
 ## Problèmes et évolutions
 ### Problèmes
 Dans le mode multijoueurs, même si les joueurs se retrouvent sur une même carte il reste un problème de synchronisation des tirs et des bonus.
-En effet, en jeu, lorsque l'hôte tir tous les clients peuvent voir les tirs. Cependant, dans le cas ou un client tir, seul celui-ci voit ses tirs. (Comme si les informations des clients n'étaient pas connu par le serveur malgré l'utilisation du _[Command]_ avec la fonction _shoot_)
+En effet, en jeu, lorsque l'hôte tir tous les clients peuvent voir les tirs. Cependant, dans le cas ou un client tir, seul celui-ci voit ses tirs (comme si les informations des clients n'étaient pas connu par le serveur malgré l'utilisation du _[Command]_ avec la fonction _shoot_). Ce problème implique que lorsqu'un joueur est "tué" par un autre, il n'est pas au courant et continue de jouer. Ainsi, le joueur qui l'a tué ne voit plus le vaisseau mais il peut toutefois voir les tirs venant de nulle part.
+
+Un autre problème est la réapparition en multijoueurs. Si l'on meurt il est impossible de réapparaitre. En tant que clients il faut forcément se déconnecter puis se reconnecter à la partie.
 
 Du côté des bonus, leur apparition est propre aux joueurs. C'est à dire que chaque joueur à des bonus différents qui apparaissent à différents endroits de la carte. 
 
+### Évolutions
+Lors de l'élaboration du cahier des charges, de nombreuses fonctionnalités avait été discutées tel que la création de 4 modes de jeu, de l'implémentation d'un harpon, etc. Ceux-ci n'ont pas encore été réalisé.
+L'implémentation d'une jauge de carburant a été effectuée dans la partie solo mais n'est pas encore présente dans le multi (ainsi que son bonus associé).
+
+Au niveau du code, nous avons dupliqué énormément de code entre les fonctionnalités solo et multi. Une évolution serait de fusionner ses fichiers pour un projet plus propre.
+
+Une nouvelle organisation à l'aide de Design Patern serait envisageable, comme par exemple pour les bonus, les tirs, ...
 ## Conseils
 Pour le partage du projet, nous avons essayé d'utiliser GitHub mais suite à des problèmes nous avons préféré utiliser le _collab_ de Unity. Cependant, sa version gratuite n'accepte que trois "sièges". C'est à dire que seulement trois personnes peuvent collaborer sur un projet.
