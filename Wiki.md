@@ -90,8 +90,21 @@ Pour rejoindre une partie, sélectionner dans le menu de départ le bouton _Rejo
 Permet de quitter l'application et de modifier le volume sonore. En jeu, cela permet aussi de quitter la partie en cours. 
 
 ## Architecture & Guide de développement
+Le projet est composé de plusieurs fichiers triés mélant des scripts, des _prefabs_, des images et des _GameObjects_. Le dossier _Scenes_ contient les cartes, et leur contenu, ainsi que les interfaces des menus. _Assets_Extern_ contient des projets récupérer sur le _Unity Store_ qui nous ont été utiles mais qui sont encore entier (peut être utile lors d'évolution possible, cependant certains _assets_ ont été récupérés partiellement et sont intégrés directement au projet.
+
+Tous les éléments des menus sont dans le dossier _GUI_.
+
+Pour plus de facilité lors de l'implémentation, nous avons dû dupliquer les éléments pour le solo, ceux ci se trouvent dans _Elements_Solo_, tous les autres éléments sont utilisés pour le multi.
+
+Le _prefab_ _Player 2_ est le joueur dans les modes multi, il est composé d'un vaisseau mais aussi de la caméra et des contrôles.
+
+_Shot_ contient les _prefabs_ des quatre types de tirs implémentés.
 
 ## Points techniques
+### GUI
+Chaque panneau qui doit rester accessible possède deux classes liées :
+* une classe de définition et d'instanciation
+* une classe qui rend une interface persistante (qui commence par _DontDestroy_)
 
 ## Problèmes et évolutions
 ### Problèmes
@@ -114,6 +127,8 @@ Pour éviter de mettre fin à une partie si l'hôte se déconnecte, une migratio
 
 ## Trucs et astuces
 La documentation Unity est très approfondie, il existe de nombreux tuto, forums et autres qui en parle. Il existe aussi le Unity Store qui fournit de nombreux éléments (certains gratuits), il est très intéressant de les utiliser.
+
+L'utilisation de _prefab_ est très pratique mais un seul niveau d'enfant ne s'affiche dans la partie _Project_. Pour modifier les autres enfants, il faut glisser le prefab dans la hiérarchie, faire les modifications et les appliquer avec _Apply_ (en haut de l'inspecteur) puis le supprimer de la hiérarchie.
 
 ### Assets utilisés
 #### Joystick Virtuel
