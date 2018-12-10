@@ -65,6 +65,12 @@ Les différentes versions du jeu sont disponibles dans le dépôt Github, dans l
 _Remarque : L'installation pose problèmes sur certains téléphones sans explications_
 
 ### Pour le développeur
+Ayant priviligié le _Collab_ de Unity, nous n'avons pas travaillé via GitHub. 
+
+**_ Méthode clé ou git_**
+
+Après avoir récupéré le dossier du projet, vous pouvez lancer Unity. Une fenêtre blanche apparait, proposant d'ouvrir les derniers projets travaillés sur l'ordinateur. Au dessus de la liste des projets, cliquez sur _Open_ et choisissez le projet que vous venez de récupérer.
+Ce projet se lance alors dans Unity. 
 
 ## Utilisation
 ### Commandes
@@ -103,6 +109,8 @@ L'implémentation d'une jauge de carburant a été effectuée dans la partie sol
 Au niveau du code, nous avons dupliqué énormément de code entre les fonctionnalités solo et multi. Une évolution serait de fusionner ces fichiers pour un projet plus propre.
 
 Une nouvelle organisation à l'aide de Design Patern serait envisageable, comme par exemple pour les bonus, les tirs, ...
+
+Pour éviter de mettre fin à une partie si l'hôte se déconnecte, une migration d'hôte est envisageable (le composant NetworkMigrationManager peut être utile).
 
 ## Trucs et astuces
 La documentation Unity est très approfondie, il existe de nombreux tuto, forums et autres qui en parle. Il existe aussi le Unity Store qui fournit de nombreux éléments (certains gratuits), il est très intéressant de les utiliser.
