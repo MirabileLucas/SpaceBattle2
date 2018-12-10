@@ -102,9 +102,8 @@ _Shot_ contient les _prefabs_ des quatre types de tirs implémentés.
 
 ## Points techniques
 ### GUI
-Chaque panneau qui doit rester accessible possède deux classes liées :
-* une classe de définition et d'instanciation
-* une classe qui rend une interface persistante (qui commence par _DontDestroy_)
+Chaque panneau possède une classe liées de définition et d'instanciation, deplus certain possède en plus une classe (qui commence par _DontDestroy_) qui les rend persistante lors des changement de scène.
+Les panneau CreateMatch et Join_Match possède en plus dans leurs classe le moyen de crée un macth (avec la fonction .CreateMatch() dans CreateMatch.cs) ou d'en rejoindre (avec la fonction .JoinMatch() dans Join_Match.cs)
 
 ## Problèmes et évolutions
 ### Problèmes
