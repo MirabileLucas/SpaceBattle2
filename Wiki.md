@@ -34,7 +34,7 @@ _Scenes > Assets\_Solo  > Bonus\_Solo_ ). Leur implémentation est fonctionnelle
 ##### Turbo
 Représentation : Boule bleue
 Multiplie la vitesse du vaisseau par le facteur choisi. (_Scenes > Bonus > BonusSpeed > Multiplier_)
-##### Triple tirs
+##### Triple tir
 Représentation : Boule rouge
 Lors du tir, trois missiles sont tirés dans des directions différentes.
 ##### Tir rapide
@@ -90,11 +90,11 @@ Pour rejoindre une partie, sélectionner dans le menu de départ le bouton _Rejo
 Permet de quitter l'application et de modifier le volume sonore. En jeu, cela permet aussi de quitter la partie en cours. 
 
 ## Architecture & Guide de développement
-Le projet est composé de plusieurs fichiers triés mélant des scripts, des _prefabs_, des images et des _GameObjects_. Le dossier _Scenes_ contient les cartes, et leur contenu, ainsi que les interfaces des menus. _Assets_Extern_ contient des projets récupérer sur le _Unity Store_ qui nous ont été utiles mais qui sont encore entier (peut être utile lors d'évolution possible, cependant certains _assets_ ont été récupérés partiellement et sont intégrés directement au projet.
+Le projet est composé de plusieurs fichiers triés mêlant des scripts, des _prefabs_, des images et des _GameObjects_. Le dossier _Scenes_ contient les cartes, et leur contenu, ainsi que les interfaces des menus. _Assets_Extern_ contient des projets récupérer sur le _Unity Store_ qui nous ont été utiles mais qui sont encore entier (peut être utile lors d'évolution possible, cependant certains _assets_ ont été récupérés partiellement et sont intégrés directement au projet.
 
 Tous les éléments des menus sont dans le dossier _GUI_.
 
-Pour plus de facilité lors de l'implémentation, nous avons dû dupliquer les éléments pour le solo, ceux ci se trouvent dans _Elements_Solo_, tous les autres éléments sont utilisés pour le multi.
+Pour plus de facilité lors de l'implémentation, nous avons dû dupliquer les éléments pour le solo, ceux-ci se trouvent dans _Elements_Solo_, tous les autres éléments sont utilisés pour le multi.
 
 Le _prefab_ _Player 2_ est le joueur dans les modes multi, il est composé d'un vaisseau mais aussi de la caméra et des contrôles.
 
@@ -109,9 +109,9 @@ Chaque panneau qui doit rester accessible possède deux classes liées :
 ## Problèmes et évolutions
 ### Problèmes
 Dans le mode multijoueurs, même si les joueurs se retrouvent sur une même carte il reste un problème de synchronisation des tirs et des bonus.
-En effet, en jeu, lorsque l'hôte tir tous les clients peuvent voir les tirs. Cependant, dans le cas ou un client tir, seul celui-ci voit ses tirs (comme si les informations des clients n'étaient pas connu par le serveur malgré l'utilisation du _[Command]_ avec la fonction _shoot_). Ce problème implique que lorsqu'un joueur est "tué" par un autre, il n'est pas au courant et continue de jouer. Ainsi, le joueur qui l'a tué ne voit plus le vaisseau mais il peut toutefois voir les tirs venant de nulle part.
+En effet, en jeu, lorsque l'hôte tir tous les clients peuvent voir les tirs. Cependant, dans le cas où un client tir, seul celui-ci voit ses tirs (comme si les informations des clients n'étaient pas connues par le serveur malgré l'utilisation du _[Command]_ avec la fonction _shoot_). Ce problème implique que lorsqu'un joueur est "tué" par un autre, il n'est pas au courant et continue de jouer. Ainsi, le joueur qui l'a tué ne voit plus le vaisseau mais il peut toutefois voir les tirs venant de nulle part.
 
-Un autre problème est la réapparition en multijoueurs. Si l'on meurt il est impossible de réapparaitre. En tant que clients il faut forcément se déconnecter puis se reconnecter à la partie.
+Un autre problème est la réapparition en multi-joueurs. Si l'on meurt il est impossible de réapparaitre. En tant que clients il faut forcément se déconnecter puis se reconnecter à la partie.
 
 Du côté des bonus, leur apparition est propre aux joueurs. C'est à dire que chaque joueur à des bonus différents qui apparaissent à différents endroits de la carte. 
 
@@ -121,7 +121,7 @@ L'implémentation d'une jauge de carburant a été effectuée dans la partie sol
 
 Au niveau du code, nous avons dupliqué énormément de code entre les fonctionnalités solo et multi. Une évolution serait de fusionner ces fichiers pour un projet plus propre.
 
-Une nouvelle organisation à l'aide de Design Patern serait envisageable, comme par exemple pour les bonus, les tirs, ...
+Une nouvelle organisation à l'aide de _Design Pattern_ serait envisageable, comme par exemple pour les bonus, les tirs, ...
 
 Pour éviter de mettre fin à une partie si l'hôte se déconnecte, une migration d'hôte est envisageable (le composant NetworkMigrationManager peut être utile).
 
