@@ -15,6 +15,12 @@ TagManager:
   - PlayerRay
   - Rocket
   - Boundary
+  - UIPause
+  - IG_GUI
+  - Sound
+  - Canva_IG_GUI
+  - Canva_UIPause
+  - Creation_partie
   layers:
   - Default
   - TransparentFX

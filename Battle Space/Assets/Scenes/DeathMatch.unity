@@ -125,7 +125,7 @@ GameObject:
   - component: {fileID: 10675174}
   m_Layer: 0
   m_Name: sprite-asteroids_7 (5)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -238,7 +238,7 @@ GameObject:
   - component: {fileID: 17822970}
   m_Layer: 0
   m_Name: sprite-asteroids_38
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -351,7 +351,7 @@ GameObject:
   - component: {fileID: 17922383}
   m_Layer: 0
   m_Name: sprite-asteroids_63 (7)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -464,7 +464,7 @@ GameObject:
   - component: {fileID: 19702615}
   m_Layer: 0
   m_Name: preview_17_1_8
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -555,7 +555,7 @@ GameObject:
   - component: {fileID: 25950842}
   m_Layer: 0
   m_Name: sprite-asteroids_2 (7)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -668,7 +668,7 @@ GameObject:
   - component: {fileID: 26072422}
   m_Layer: 0
   m_Name: sprite-asteroids_38 (2)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -781,7 +781,7 @@ GameObject:
   - component: {fileID: 27095437}
   m_Layer: 0
   m_Name: sprite-asteroids_7 (2)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -894,7 +894,7 @@ GameObject:
   - component: {fileID: 30803100}
   m_Layer: 0
   m_Name: sprite-asteroids_6 (7)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1010,7 +1010,7 @@ GameObject:
   - component: {fileID: 30951615}
   m_Layer: 0
   m_Name: sprite-asteroids_10 (6)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1186,7 +1186,7 @@ GameObject:
   - component: {fileID: 43149708}
   m_Layer: 0
   m_Name: sprite-asteroids_48 (2)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1299,7 +1299,7 @@ GameObject:
   - component: {fileID: 81199783}
   m_Layer: 0
   m_Name: sprite-asteroids_13 (4)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1411,7 +1411,7 @@ GameObject:
   - component: {fileID: 94935590}
   m_Layer: 0
   m_Name: sprite-asteroids_1 (3)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1523,7 +1523,7 @@ GameObject:
   - component: {fileID: 95266648}
   m_Layer: 0
   m_Name: sprite-asteroids_20 (2)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1638,7 +1638,7 @@ GameObject:
   - component: {fileID: 106419272}
   m_Layer: 0
   m_Name: sprite-asteroids_13 (5)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1750,7 +1750,7 @@ GameObject:
   - component: {fileID: 118365010}
   m_Layer: 0
   m_Name: sprite-asteroids_20 (3)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1865,7 +1865,7 @@ GameObject:
   - component: {fileID: 120649443}
   m_Layer: 0
   m_Name: sprite-asteroids_3 (9)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1978,7 +1978,7 @@ GameObject:
   - component: {fileID: 123591558}
   m_Layer: 0
   m_Name: sprite-asteroids_59 (3)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2092,7 +2092,7 @@ GameObject:
   - component: {fileID: 128299411}
   m_Layer: 0
   m_Name: sprite-asteroids_35 (9)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2204,7 +2204,7 @@ GameObject:
   - component: {fileID: 130485231}
   m_Layer: 0
   m_Name: sprite-asteroids_9 (6)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2319,7 +2319,7 @@ GameObject:
   - component: {fileID: 169018419}
   m_Layer: 0
   m_Name: sprite-asteroids_5 (1)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2434,7 +2434,7 @@ GameObject:
   - component: {fileID: 170845301}
   m_Layer: 0
   m_Name: sprite-asteroids_45 (6)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2546,7 +2546,7 @@ GameObject:
   - component: {fileID: 174323648}
   m_Layer: 0
   m_Name: sprite-asteroids_15
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2720,7 +2720,7 @@ GameObject:
   - component: {fileID: 186560428}
   m_Layer: 0
   m_Name: sprite-asteroids_59 (16)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2834,7 +2834,7 @@ GameObject:
   - component: {fileID: 198499772}
   m_Layer: 0
   m_Name: sprite-asteroids_59 (8)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3030,7 +3030,7 @@ GameObject:
   - component: {fileID: 204792470}
   m_Layer: 0
   m_Name: sprite-asteroids_45 (9)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3142,7 +3142,7 @@ GameObject:
   - component: {fileID: 205493001}
   m_Layer: 0
   m_Name: sprite-asteroids_4 (6)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3243,17 +3243,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &212311507 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 114177480141128040, guid: a4e8f81e3a2f30c4eaef6844fec6edec,
-    type: 2}
-  m_PrefabInternal: {fileID: 1198464251}
-  m_Script: {fileID: 11500000, guid: 276afc61682d3044392e6f133f9f82df, type: 3}
---- !u!4 &212311510 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 4818185684838288, guid: a4e8f81e3a2f30c4eaef6844fec6edec,
-    type: 2}
-  m_PrefabInternal: {fileID: 1198464251}
 --- !u!1 &212942462
 GameObject:
   m_ObjectHideFlags: 0
@@ -3266,7 +3255,7 @@ GameObject:
   - component: {fileID: 212942464}
   m_Layer: 0
   m_Name: sprite-asteroids_40 (9)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3381,7 +3370,7 @@ GameObject:
   - component: {fileID: 213272313}
   m_Layer: 0
   m_Name: sprite-asteroids_63 (8)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3494,7 +3483,7 @@ GameObject:
   - component: {fileID: 220871161}
   m_Layer: 0
   m_Name: sprite-asteroids_63 (1)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3607,7 +3596,7 @@ GameObject:
   - component: {fileID: 229450732}
   m_Layer: 0
   m_Name: sprite-asteroids_40
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3722,7 +3711,7 @@ GameObject:
   - component: {fileID: 230785194}
   m_Layer: 0
   m_Name: sprite-asteroids_8 (6)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3834,7 +3823,7 @@ GameObject:
   - component: {fileID: 233994287}
   m_Layer: 0
   m_Name: sprite-asteroids_60 (10)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3945,7 +3934,7 @@ GameObject:
   - component: {fileID: 234526418}
   m_Layer: 0
   m_Name: sprite-asteroids_5 (6)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4060,7 +4049,7 @@ GameObject:
   - component: {fileID: 237118894}
   m_Layer: 0
   m_Name: sprite-asteroids_3 (7)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4173,7 +4162,7 @@ GameObject:
   - component: {fileID: 255212928}
   m_Layer: 0
   m_Name: sprite-asteroids_5 (11)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4288,7 +4277,7 @@ GameObject:
   - component: {fileID: 258796927}
   m_Layer: 0
   m_Name: sprite-asteroids_0 (1)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4400,7 +4389,7 @@ GameObject:
   - component: {fileID: 264568076}
   m_Layer: 0
   m_Name: sprite-asteroids_56
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4514,7 +4503,7 @@ GameObject:
   - component: {fileID: 266131833}
   m_Layer: 0
   m_Name: sprite-asteroids_46
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4627,7 +4616,7 @@ GameObject:
   - component: {fileID: 270322936}
   m_Layer: 0
   m_Name: sprite-asteroids_54 (1)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4741,7 +4730,7 @@ GameObject:
   - component: {fileID: 272381158}
   m_Layer: 0
   m_Name: sprite-asteroids_13 (7)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4853,7 +4842,7 @@ GameObject:
   - component: {fileID: 272433400}
   m_Layer: 0
   m_Name: sprite-asteroids_48 (5)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4966,7 +4955,7 @@ GameObject:
   - component: {fileID: 275900174}
   m_Layer: 0
   m_Name: preview_17_1_12 (1)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5057,7 +5046,7 @@ GameObject:
   - component: {fileID: 278462976}
   m_Layer: 0
   m_Name: sprite-asteroids_60 (5)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5165,9 +5154,10 @@ GameObject:
   m_Component:
   - component: {fileID: 278477170}
   - component: {fileID: 278477171}
+  - component: {fileID: 278477172}
   m_Layer: 0
   m_Name: Purple-Planet-wih-Moon (1)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5231,6 +5221,21 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!58 &278477172
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 278477169}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 3.61
 --- !u!1 &286017047
 GameObject:
   m_ObjectHideFlags: 0
@@ -5243,7 +5248,7 @@ GameObject:
   - component: {fileID: 286017049}
   m_Layer: 0
   m_Name: sprite-asteroids_4 (7)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5356,7 +5361,7 @@ GameObject:
   - component: {fileID: 289980516}
   m_Layer: 0
   m_Name: sprite-asteroids_9 (5)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5471,7 +5476,7 @@ GameObject:
   - component: {fileID: 295773760}
   m_Layer: 0
   m_Name: sprite-asteroids_46 (13)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5584,7 +5589,7 @@ GameObject:
   - component: {fileID: 300453294}
   m_Layer: 0
   m_Name: sprite-asteroids_50 (8)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5696,7 +5701,7 @@ GameObject:
   - component: {fileID: 302640107}
   m_Layer: 0
   m_Name: sprite-asteroids_2 (12)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5834,7 +5839,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4428355332644196, guid: f414f6cde10d3824890fd47c779c6627, type: 2}
       propertyPath: m_RootOrder
-      value: 3
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4768355557481456, guid: f414f6cde10d3824890fd47c779c6627, type: 2}
       propertyPath: m_LocalPosition.x
@@ -5890,7 +5895,7 @@ Transform:
   - {fileID: 1230994427}
   - {fileID: 176803426}
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &319107551
 GameObject:
@@ -5904,7 +5909,7 @@ GameObject:
   - component: {fileID: 319107553}
   m_Layer: 0
   m_Name: sprite-asteroids_50 (4)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6016,7 +6021,7 @@ GameObject:
   - component: {fileID: 320848746}
   m_Layer: 0
   m_Name: preview_17_1_7 (1)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6107,7 +6112,7 @@ GameObject:
   - component: {fileID: 322241859}
   m_Layer: 0
   m_Name: sprite-asteroids_40 (5)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6222,7 +6227,7 @@ GameObject:
   - component: {fileID: 349818857}
   m_Layer: 0
   m_Name: sprite-asteroids_50 (9)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6334,7 +6339,7 @@ GameObject:
   - component: {fileID: 351806384}
   m_Layer: 0
   m_Name: sprite-asteroids_2 (5)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6447,7 +6452,7 @@ GameObject:
   - component: {fileID: 352077503}
   m_Layer: 0
   m_Name: sprite-asteroids_8 (3)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6559,7 +6564,7 @@ GameObject:
   - component: {fileID: 352790232}
   m_Layer: 0
   m_Name: sprite-asteroids_46 (1)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6672,7 +6677,7 @@ GameObject:
   - component: {fileID: 367890401}
   m_Layer: 0
   m_Name: sprite-asteroids_8 (8)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6784,7 +6789,7 @@ GameObject:
   - component: {fileID: 370450244}
   m_Layer: 0
   m_Name: sprite-asteroids_20 (5)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6899,7 +6904,7 @@ GameObject:
   - component: {fileID: 372034451}
   m_Layer: 0
   m_Name: preview_17_1_15
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6990,7 +6995,7 @@ GameObject:
   - component: {fileID: 390909157}
   m_Layer: 0
   m_Name: sprite-asteroids_11 (1)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7103,7 +7108,7 @@ GameObject:
   - component: {fileID: 391163740}
   m_Layer: 0
   m_Name: sprite-asteroids_15 (3)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7214,7 +7219,7 @@ GameObject:
   - component: {fileID: 393539001}
   m_Layer: 0
   m_Name: sprite-asteroids_59 (3)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7328,7 +7333,7 @@ GameObject:
   - component: {fileID: 405213349}
   m_Layer: 0
   m_Name: sprite-asteroids_4 (4)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7441,7 +7446,7 @@ GameObject:
   - component: {fileID: 410362114}
   m_Layer: 0
   m_Name: sprite-asteroids_60 (12)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7552,7 +7557,7 @@ GameObject:
   - component: {fileID: 413391615}
   m_Layer: 0
   m_Name: sprite-asteroids_1 (6)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7664,7 +7669,7 @@ GameObject:
   - component: {fileID: 432383331}
   m_Layer: 0
   m_Name: sprite-asteroids_28 (1)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7781,7 +7786,7 @@ GameObject:
   - component: {fileID: 444181090}
   m_Layer: 0
   m_Name: sprite-asteroids_45 (11)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7898,7 +7903,7 @@ GameObject:
   - component: {fileID: 467048817}
   m_Layer: 0
   m_Name: sprite-asteroids_48 (10)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8011,7 +8016,7 @@ GameObject:
   - component: {fileID: 468798902}
   m_Layer: 0
   m_Name: sprite-asteroids_59 (4)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8125,7 +8130,7 @@ GameObject:
   - component: {fileID: 477526157}
   m_Layer: 0
   m_Name: sprite-asteroids_9 (10)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8240,7 +8245,7 @@ GameObject:
   - component: {fileID: 482209499}
   m_Layer: 0
   m_Name: sprite-asteroids_13 (4)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8352,7 +8357,7 @@ GameObject:
   - component: {fileID: 484225364}
   m_Layer: 0
   m_Name: sprite-asteroids_60
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8463,7 +8468,7 @@ GameObject:
   - component: {fileID: 490948565}
   m_Layer: 0
   m_Name: sprite-asteroids_3 (2)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8576,7 +8581,7 @@ GameObject:
   - component: {fileID: 492577516}
   m_Layer: 0
   m_Name: sprite-asteroids_8 (1)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8688,7 +8693,7 @@ GameObject:
   - component: {fileID: 496269609}
   m_Layer: 0
   m_Name: sprite-asteroids_20 (1)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8881,7 +8886,7 @@ GameObject:
   - component: {fileID: 506225714}
   m_Layer: 0
   m_Name: sprite-asteroids_50 (3)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8993,7 +8998,7 @@ GameObject:
   - component: {fileID: 508136646}
   m_Layer: 0
   m_Name: sprite-asteroids_50
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9105,7 +9110,7 @@ GameObject:
   - component: {fileID: 524641161}
   m_Layer: 0
   m_Name: sprite-asteroids_60 (1)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9216,7 +9221,7 @@ GameObject:
   - component: {fileID: 531902227}
   m_Layer: 0
   m_Name: sprite-asteroids_54 (2)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9330,7 +9335,7 @@ GameObject:
   - component: {fileID: 558879485}
   m_Layer: 0
   m_Name: sprite-asteroids_9 (3)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9445,7 +9450,7 @@ GameObject:
   - component: {fileID: 559047790}
   m_Layer: 0
   m_Name: sprite-asteroids_59 (11)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9559,7 +9564,7 @@ GameObject:
   - component: {fileID: 561604589}
   m_Layer: 0
   m_Name: sprite-asteroids_35 (6)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9671,7 +9676,7 @@ GameObject:
   - component: {fileID: 564938866}
   m_Layer: 0
   m_Name: sprite-asteroids_50 (2)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9783,7 +9788,7 @@ GameObject:
   - component: {fileID: 566024832}
   m_Layer: 0
   m_Name: sprite-asteroids_6 (5)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9899,7 +9904,7 @@ GameObject:
   - component: {fileID: 567222749}
   m_Layer: 0
   m_Name: preview_17_1_2
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9990,7 +9995,7 @@ GameObject:
   - component: {fileID: 580882117}
   m_Layer: 0
   m_Name: sprite-asteroids_24 (4)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10101,7 +10106,7 @@ GameObject:
   - component: {fileID: 590292474}
   m_Layer: 0
   m_Name: sprite-asteroids_2 (10)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10214,7 +10219,7 @@ GameObject:
   - component: {fileID: 603213009}
   m_Layer: 0
   m_Name: sprite-asteroids_60 (16)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10322,9 +10327,10 @@ GameObject:
   m_Component:
   - component: {fileID: 614930090}
   - component: {fileID: 614930091}
+  - component: {fileID: 614930092}
   m_Layer: 0
   m_Name: Red-Lines-PLanet (1)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10388,6 +10394,21 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!58 &614930092
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 614930089}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: -0.0000019073486}
+  serializedVersion: 2
+  m_Radius: 3.93
 --- !u!1 &619823131
 GameObject:
   m_ObjectHideFlags: 0
@@ -10397,9 +10418,10 @@ GameObject:
   m_Component:
   - component: {fileID: 619823132}
   - component: {fileID: 619823133}
+  - component: {fileID: 619823134}
   m_Layer: 0
   m_Name: cyan-planet
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10463,6 +10485,21 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!58 &619823134
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 619823131}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 3.58
 --- !u!1 &621968858
 GameObject:
   m_ObjectHideFlags: 0
@@ -10475,7 +10512,7 @@ GameObject:
   - component: {fileID: 621968859}
   m_Layer: 0
   m_Name: sprite-asteroids_54 (2)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10589,7 +10626,7 @@ GameObject:
   - component: {fileID: 623812817}
   m_Layer: 0
   m_Name: sprite-asteroids_20 (7)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10704,7 +10741,7 @@ GameObject:
   - component: {fileID: 632606600}
   m_Layer: 0
   m_Name: sprite-asteroids_20
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10819,7 +10856,7 @@ GameObject:
   - component: {fileID: 637491342}
   m_Layer: 0
   m_Name: sprite-asteroids_8 (2)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10931,7 +10968,7 @@ GameObject:
   - component: {fileID: 653482144}
   m_Layer: 0
   m_Name: sprite-asteroids_38 (10)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11044,7 +11081,7 @@ GameObject:
   - component: {fileID: 657916108}
   m_Layer: 0
   m_Name: sprite-asteroids_7 (8)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11157,7 +11194,7 @@ GameObject:
   - component: {fileID: 659458184}
   m_Layer: 0
   m_Name: sprite-asteroids_5 (5)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11272,7 +11309,7 @@ GameObject:
   - component: {fileID: 660098109}
   m_Layer: 0
   m_Name: sprite-asteroids_48
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11385,7 +11422,7 @@ GameObject:
   - component: {fileID: 661916028}
   m_Layer: 0
   m_Name: sprite-asteroids_28 (7)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11502,7 +11539,7 @@ GameObject:
   - component: {fileID: 665059420}
   m_Layer: 0
   m_Name: sprite-asteroids_10 (3)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11615,7 +11652,7 @@ GameObject:
   - component: {fileID: 671951569}
   m_Layer: 0
   m_Name: sprite-asteroids_9
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11730,7 +11767,7 @@ GameObject:
   - component: {fileID: 677144379}
   m_Layer: 0
   m_Name: sprite-asteroids_5 (3)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11845,7 +11882,7 @@ GameObject:
   - component: {fileID: 678056437}
   m_Layer: 0
   m_Name: sprite-asteroids_48 (1)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11958,7 +11995,7 @@ GameObject:
   - component: {fileID: 690682154}
   m_Layer: 0
   m_Name: sprite-asteroids_59 (13)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12072,7 +12109,7 @@ GameObject:
   - component: {fileID: 690999918}
   m_Layer: 0
   m_Name: sprite-asteroids_10 (1)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12185,7 +12222,7 @@ GameObject:
   - component: {fileID: 692081268}
   m_Layer: 0
   m_Name: sprite-asteroids_35 (5)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12285,6 +12322,53 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1001 &695765801
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4670050783091058, guid: ce2864a6d9d46cd43acc238fee76d30c, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4670050783091058, guid: ce2864a6d9d46cd43acc238fee76d30c, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4670050783091058, guid: ce2864a6d9d46cd43acc238fee76d30c, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4670050783091058, guid: ce2864a6d9d46cd43acc238fee76d30c, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4670050783091058, guid: ce2864a6d9d46cd43acc238fee76d30c, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4670050783091058, guid: ce2864a6d9d46cd43acc238fee76d30c, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4670050783091058, guid: ce2864a6d9d46cd43acc238fee76d30c, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4670050783091058, guid: ce2864a6d9d46cd43acc238fee76d30c, type: 2}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 114914956838073766, guid: ce2864a6d9d46cd43acc238fee76d30c,
+        type: 2}
+      propertyPath: spawnInterval
+      value: 2
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ce2864a6d9d46cd43acc238fee76d30c, type: 2}
+  m_IsPrefabAsset: 0
 --- !u!1 &701637019
 GameObject:
   m_ObjectHideFlags: 0
@@ -12297,7 +12381,7 @@ GameObject:
   - component: {fileID: 701637021}
   m_Layer: 0
   m_Name: sprite-asteroids_5 (10)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12412,7 +12496,7 @@ GameObject:
   - component: {fileID: 702925349}
   m_Layer: 0
   m_Name: sprite-asteroids_54 (4)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12526,7 +12610,7 @@ GameObject:
   - component: {fileID: 709972519}
   m_Layer: 0
   m_Name: sprite-asteroids_7 (3)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12639,7 +12723,7 @@ GameObject:
   - component: {fileID: 725539503}
   m_Layer: 0
   m_Name: sprite-asteroids_9 (4)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12754,7 +12838,7 @@ GameObject:
   - component: {fileID: 725930140}
   m_Layer: 0
   m_Name: sprite-asteroids_38 (13)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12867,7 +12951,7 @@ GameObject:
   - component: {fileID: 741026037}
   m_Layer: 0
   m_Name: sprite-asteroids_60 (2)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12978,7 +13062,7 @@ GameObject:
   - component: {fileID: 742334899}
   m_Layer: 0
   m_Name: preview_17_1_5
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13069,7 +13153,7 @@ GameObject:
   - component: {fileID: 742880239}
   m_Layer: 0
   m_Name: sprite-asteroids_48 (6)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13182,7 +13266,7 @@ GameObject:
   - component: {fileID: 743089364}
   m_Layer: 0
   m_Name: sprite-asteroids_28 (2)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13299,7 +13383,7 @@ GameObject:
   - component: {fileID: 744048899}
   m_Layer: 0
   m_Name: sprite-asteroids_3 (1)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13412,7 +13496,7 @@ GameObject:
   - component: {fileID: 758549916}
   m_Layer: 0
   m_Name: sprite-asteroids_8 (9)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13524,7 +13608,7 @@ GameObject:
   - component: {fileID: 758796631}
   m_Layer: 0
   m_Name: sprite-asteroids_1 (2)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13636,7 +13720,7 @@ GameObject:
   - component: {fileID: 762185941}
   m_Layer: 0
   m_Name: sprite-asteroids_1 (1)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13748,7 +13832,7 @@ GameObject:
   - component: {fileID: 763896263}
   m_Layer: 0
   m_Name: sprite-asteroids_56 (9)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13862,7 +13946,7 @@ GameObject:
   - component: {fileID: 765647918}
   m_Layer: 0
   m_Name: sprite-asteroids_56 (4)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13976,7 +14060,7 @@ GameObject:
   - component: {fileID: 766673759}
   m_Layer: 0
   m_Name: sprite-asteroids_59
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14090,7 +14174,7 @@ GameObject:
   - component: {fileID: 771967468}
   m_Layer: 0
   m_Name: sprite-asteroids_10 (7)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14203,7 +14287,7 @@ GameObject:
   - component: {fileID: 772267918}
   m_Layer: 0
   m_Name: preview_17_1_3
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14294,7 +14378,7 @@ GameObject:
   - component: {fileID: 773744061}
   m_Layer: 0
   m_Name: sprite-asteroids_15 (2)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14405,7 +14489,7 @@ GameObject:
   - component: {fileID: 778640495}
   m_Layer: 0
   m_Name: sprite-asteroids_54 (6)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14519,7 +14603,7 @@ GameObject:
   - component: {fileID: 783273635}
   m_Layer: 0
   m_Name: sprite-asteroids_2 (4)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14632,7 +14716,7 @@ GameObject:
   - component: {fileID: 783815408}
   m_Layer: 0
   m_Name: sprite-asteroids_30 (3)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14744,7 +14828,7 @@ GameObject:
   - component: {fileID: 790555580}
   m_Layer: 0
   m_Name: sprite-asteroids_30 (4)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14856,7 +14940,7 @@ GameObject:
   - component: {fileID: 793998988}
   m_Layer: 0
   m_Name: sprite-asteroids_24 (2)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14967,7 +15051,7 @@ GameObject:
   - component: {fileID: 794993704}
   m_Layer: 0
   m_Name: preview_17_1_12
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15058,7 +15142,7 @@ GameObject:
   - component: {fileID: 796154660}
   m_Layer: 0
   m_Name: sprite-asteroids_10 (4)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15234,7 +15318,7 @@ GameObject:
   - component: {fileID: 811751493}
   m_Layer: 0
   m_Name: sprite-asteroids_4 (1)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15347,7 +15431,7 @@ GameObject:
   - component: {fileID: 827695087}
   m_Layer: 0
   m_Name: sprite-asteroids_59 (15)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15461,7 +15545,7 @@ GameObject:
   - component: {fileID: 828820456}
   m_Layer: 0
   m_Name: sprite-asteroids_54 (7)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15575,7 +15659,7 @@ GameObject:
   - component: {fileID: 830233683}
   m_Layer: 0
   m_Name: sprite-asteroids_6 (1)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15691,7 +15775,7 @@ GameObject:
   - component: {fileID: 833410017}
   m_Layer: 0
   m_Name: sprite-asteroids_38 (4)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15804,7 +15888,7 @@ GameObject:
   - component: {fileID: 834800340}
   m_Layer: 0
   m_Name: sprite-asteroids_48 (7)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15917,7 +16001,7 @@ GameObject:
   - component: {fileID: 843953218}
   m_Layer: 0
   m_Name: sprite-asteroids_15 (8)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16028,7 +16112,7 @@ GameObject:
   - component: {fileID: 846078569}
   m_Layer: 0
   m_Name: sprite-asteroids_2 (4)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16141,7 +16225,7 @@ GameObject:
   - component: {fileID: 851139402}
   m_Layer: 0
   m_Name: sprite-asteroids_59 (2)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16255,7 +16339,7 @@ GameObject:
   - component: {fileID: 853058774}
   m_Layer: 0
   m_Name: sprite-asteroids_5 (1)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16358,96 +16442,6 @@ Transform:
   m_Father: {fileID: 1019568639}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 179.91801}
---- !u!1 &853703200
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 853703203}
-  - component: {fileID: 853703202}
-  - component: {fileID: 853703201}
-  - component: {fileID: 853703204}
-  m_Layer: 0
-  m_Name: Main Camera
-  m_TagString: MainCamera
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!81 &853703201
-AudioListener:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 853703200}
-  m_Enabled: 1
---- !u!20 &853703202
-Camera:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 853703200}
-  m_Enabled: 1
-  serializedVersion: 2
-  m_ClearFlags: 1
-  m_BackGroundColor: {r: 0, g: 0, b: 0, a: 0}
-  m_projectionMatrixMode: 1
-  m_SensorSize: {x: 36, y: 24}
-  m_LensShift: {x: 0, y: 0}
-  m_FocalLength: 50
-  m_NormalizedViewPortRect:
-    serializedVersion: 2
-    x: 0
-    y: 0
-    width: 1
-    height: 1
-  near clip plane: 0.3
-  far clip plane: 1000
-  field of view: 60
-  orthographic: 1
-  orthographic size: 5
-  m_Depth: -1
-  m_CullingMask:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_RenderingPath: -1
-  m_TargetTexture: {fileID: 0}
-  m_TargetDisplay: 0
-  m_TargetEye: 3
-  m_HDR: 1
-  m_AllowMSAA: 1
-  m_AllowDynamicResolution: 0
-  m_ForceIntoRT: 0
-  m_OcclusionCulling: 1
-  m_StereoConvergence: 10
-  m_StereoSeparation: 0.022
---- !u!4 &853703203
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 853703200}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -10}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 2
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &853703204
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 853703200}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 730d586af1c372841b28f7c375504f26, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  target: {fileID: 212311510}
 --- !u!1 &859317060
 GameObject:
   m_ObjectHideFlags: 0
@@ -16460,7 +16454,7 @@ GameObject:
   - component: {fileID: 859317062}
   m_Layer: 0
   m_Name: sprite-asteroids_60 (1)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16571,7 +16565,7 @@ GameObject:
   - component: {fileID: 860987742}
   m_Layer: 0
   m_Name: sprite-asteroids_7
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16684,7 +16678,7 @@ GameObject:
   - component: {fileID: 861581050}
   m_Layer: 0
   m_Name: sprite-asteroids_8 (5)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16796,7 +16790,7 @@ GameObject:
   - component: {fileID: 861795480}
   m_Layer: 0
   m_Name: sprite-asteroids_38 (12)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16909,7 +16903,7 @@ GameObject:
   - component: {fileID: 864146456}
   m_Layer: 0
   m_Name: sprite-asteroids_2 (8)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17022,7 +17016,7 @@ GameObject:
   - component: {fileID: 867215194}
   m_Layer: 0
   m_Name: sprite-asteroids_60
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17133,7 +17127,7 @@ GameObject:
   - component: {fileID: 869900931}
   m_Layer: 0
   m_Name: sprite-asteroids_24 (7)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17244,7 +17238,7 @@ GameObject:
   - component: {fileID: 887540280}
   m_Layer: 0
   m_Name: sprite-asteroids_30 (9)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17356,7 +17350,7 @@ GameObject:
   - component: {fileID: 890017709}
   m_Layer: 0
   m_Name: sprite-asteroids_9 (7)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17471,7 +17465,7 @@ GameObject:
   - component: {fileID: 896891493}
   m_Layer: 0
   m_Name: sprite-asteroids_50 (10)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17583,7 +17577,7 @@ GameObject:
   - component: {fileID: 897343068}
   m_Layer: 0
   m_Name: sprite-asteroids_3 (4)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17696,7 +17690,7 @@ GameObject:
   - component: {fileID: 908205654}
   m_Layer: 0
   m_Name: sprite-asteroids_59 (17)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17810,7 +17804,7 @@ GameObject:
   - component: {fileID: 919805413}
   m_Layer: 0
   m_Name: sprite-asteroids_38 (7)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17923,7 +17917,7 @@ GameObject:
   - component: {fileID: 922135966}
   m_Layer: 0
   m_Name: sprite-asteroids_35 (2)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18035,7 +18029,7 @@ GameObject:
   - component: {fileID: 923128569}
   m_Layer: 0
   m_Name: sprite-asteroids_46 (12)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18148,7 +18142,7 @@ GameObject:
   - component: {fileID: 933238441}
   m_Layer: 0
   m_Name: sprite-asteroids_6 (2)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18264,7 +18258,7 @@ GameObject:
   - component: {fileID: 935602648}
   m_Layer: 0
   m_Name: sprite-asteroids_56 (3)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18378,7 +18372,7 @@ GameObject:
   - component: {fileID: 936917946}
   m_Layer: 0
   m_Name: preview_17_1_10
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18469,7 +18463,7 @@ GameObject:
   - component: {fileID: 938273780}
   m_Layer: 0
   m_Name: sprite-asteroids_7 (9)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18582,7 +18576,7 @@ GameObject:
   - component: {fileID: 956940810}
   m_Layer: 0
   m_Name: sprite-asteroids_2 (2)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18695,7 +18689,7 @@ GameObject:
   - component: {fileID: 957183450}
   m_Layer: 0
   m_Name: sprite-asteroids_2
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18808,7 +18802,7 @@ GameObject:
   - component: {fileID: 959370608}
   m_Layer: 0
   m_Name: sprite-asteroids_46 (6)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18921,7 +18915,7 @@ GameObject:
   - component: {fileID: 960189310}
   m_Layer: 0
   m_Name: sprite-asteroids_6
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19037,7 +19031,7 @@ GameObject:
   - component: {fileID: 960398751}
   m_Layer: 0
   m_Name: preview_17_1_16
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19128,7 +19122,7 @@ GameObject:
   - component: {fileID: 968007995}
   m_Layer: 0
   m_Name: sprite-asteroids_59 (1)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19242,7 +19236,7 @@ GameObject:
   - component: {fileID: 975159167}
   m_Layer: 0
   m_Name: sprite-asteroids_40 (1)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19357,7 +19351,7 @@ GameObject:
   - component: {fileID: 975365967}
   m_Layer: 0
   m_Name: sprite-asteroids_48 (2)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19470,7 +19464,7 @@ GameObject:
   - component: {fileID: 1003840415}
   m_Layer: 0
   m_Name: preview_17_1_9
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19612,7 +19606,7 @@ GameObject:
   - component: {fileID: 1018715589}
   m_Layer: 0
   m_Name: preview_17_1_0 (1)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19802,7 +19796,7 @@ GameObject:
   - component: {fileID: 1021735997}
   m_Layer: 0
   m_Name: preview_17_1_6
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19893,7 +19887,7 @@ GameObject:
   - component: {fileID: 1033825880}
   m_Layer: 0
   m_Name: sprite-asteroids_59 (1)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20007,7 +20001,7 @@ GameObject:
   - component: {fileID: 1034369813}
   m_Layer: 0
   m_Name: sprite-asteroids_50 (5)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20119,7 +20113,7 @@ GameObject:
   - component: {fileID: 1035452443}
   m_Layer: 0
   m_Name: sprite-asteroids_9 (8)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20234,7 +20228,7 @@ GameObject:
   - component: {fileID: 1036448976}
   m_Layer: 0
   m_Name: sprite-asteroids_10
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20347,7 +20341,7 @@ GameObject:
   - component: {fileID: 1041089656}
   m_Layer: 0
   m_Name: sprite-asteroids_11
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20460,7 +20454,7 @@ GameObject:
   - component: {fileID: 1041248873}
   m_Layer: 0
   m_Name: sprite-asteroids_2 (11)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20573,7 +20567,7 @@ GameObject:
   - component: {fileID: 1042024154}
   m_Layer: 0
   m_Name: sprite-asteroids_60 (11)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20684,7 +20678,7 @@ GameObject:
   - component: {fileID: 1042275681}
   m_Layer: 0
   m_Name: sprite-asteroids_38 (1)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20797,7 +20791,7 @@ GameObject:
   - component: {fileID: 1044527439}
   m_Layer: 0
   m_Name: sprite-asteroids_0 (6)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20909,7 +20903,7 @@ GameObject:
   - component: {fileID: 1050955888}
   m_Layer: 0
   m_Name: sprite-asteroids_7 (1)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21022,7 +21016,7 @@ GameObject:
   - component: {fileID: 1052037850}
   m_Layer: 0
   m_Name: sprite-asteroids_0 (7)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21134,7 +21128,7 @@ GameObject:
   - component: {fileID: 1053056318}
   m_Layer: 0
   m_Name: sprite-asteroids_45 (7)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21246,7 +21240,7 @@ GameObject:
   - component: {fileID: 1057508906}
   m_Layer: 0
   m_Name: sprite-asteroids_28
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21363,7 +21357,7 @@ GameObject:
   - component: {fileID: 1058654345}
   m_Layer: 0
   m_Name: sprite-asteroids_0 (3)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21475,7 +21469,7 @@ GameObject:
   - component: {fileID: 1059845719}
   m_Layer: 0
   m_Name: sprite-asteroids_45 (1)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21587,7 +21581,7 @@ GameObject:
   - component: {fileID: 1070506393}
   m_Layer: 0
   m_Name: sprite-asteroids_2 (1)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21700,7 +21694,7 @@ GameObject:
   - component: {fileID: 1073264638}
   m_Layer: 0
   m_Name: sprite-asteroids_35 (8)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21812,7 +21806,7 @@ GameObject:
   - component: {fileID: 1073779718}
   m_Layer: 0
   m_Name: sprite-asteroids_35 (1)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21924,7 +21918,7 @@ GameObject:
   - component: {fileID: 1075491059}
   m_Layer: 0
   m_Name: sprite-asteroids_20 (2)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22039,7 +22033,7 @@ GameObject:
   - component: {fileID: 1078620778}
   m_Layer: 0
   m_Name: preview_17_1_1 (2)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22130,7 +22124,7 @@ GameObject:
   - component: {fileID: 1081396879}
   m_Layer: 0
   m_Name: sprite-asteroids_1 (5)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22242,7 +22236,7 @@ GameObject:
   - component: {fileID: 1087756272}
   m_Layer: 0
   m_Name: sprite-asteroids_30 (2)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22354,7 +22348,7 @@ GameObject:
   - component: {fileID: 1094092831}
   m_Layer: 0
   m_Name: sprite-asteroids_2 (9)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22467,7 +22461,7 @@ GameObject:
   - component: {fileID: 1098086950}
   m_Layer: 0
   m_Name: sprite-asteroids_8 (7)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22579,7 +22573,7 @@ GameObject:
   - component: {fileID: 1111081637}
   m_Layer: 0
   m_Name: sprite-asteroids_9 (2)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22694,7 +22688,7 @@ GameObject:
   - component: {fileID: 1111463300}
   m_Layer: 0
   m_Name: sprite-asteroids_15 (6)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22805,7 +22799,7 @@ GameObject:
   - component: {fileID: 1112668937}
   m_Layer: 0
   m_Name: sprite-asteroids_50 (2)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22917,7 +22911,7 @@ GameObject:
   - component: {fileID: 1117443281}
   m_Layer: 0
   m_Name: sprite-asteroids_24 (8)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23028,7 +23022,7 @@ GameObject:
   - component: {fileID: 1123509265}
   m_Layer: 0
   m_Name: sprite-asteroids_40 (4)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23143,7 +23137,7 @@ GameObject:
   - component: {fileID: 1126247200}
   m_Layer: 0
   m_Name: sprite-asteroids_15 (5)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23254,7 +23248,7 @@ GameObject:
   - component: {fileID: 1128476648}
   m_Layer: 0
   m_Name: sprite-asteroids_35 (5)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23366,7 +23360,7 @@ GameObject:
   - component: {fileID: 1130832496}
   m_Layer: 0
   m_Name: sprite-asteroids_35 (4)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23478,7 +23472,7 @@ GameObject:
   - component: {fileID: 1134384164}
   m_Layer: 0
   m_Name: sprite-asteroids_56 (6)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23592,7 +23586,7 @@ GameObject:
   - component: {fileID: 1136275472}
   m_Layer: 0
   m_Name: sprite-asteroids_20 (3)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23704,9 +23698,10 @@ GameObject:
   m_Component:
   - component: {fileID: 1138768506}
   - component: {fileID: 1138768507}
+  - component: {fileID: 1138768508}
   m_Layer: 0
   m_Name: Purple-Planet-wih-Moon
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23770,6 +23765,21 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!58 &1138768508
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1138768505}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -0.075914316, y: -0.12616913}
+  serializedVersion: 2
+  m_Radius: 3.8929563
 --- !u!1 &1140805518
 GameObject:
   m_ObjectHideFlags: 0
@@ -23782,7 +23792,7 @@ GameObject:
   - component: {fileID: 1140805520}
   m_Layer: 0
   m_Name: sprite-asteroids_56 (5)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23896,7 +23906,7 @@ GameObject:
   - component: {fileID: 1141525337}
   m_Layer: 0
   m_Name: sprite-asteroids_56 (4)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -24010,7 +24020,7 @@ GameObject:
   - component: {fileID: 1141840437}
   m_Layer: 0
   m_Name: sprite-asteroids_0 (4)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -24122,7 +24132,7 @@ GameObject:
   - component: {fileID: 1145405946}
   m_Layer: 0
   m_Name: sprite-asteroids_63
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -24235,7 +24245,7 @@ GameObject:
   - component: {fileID: 1146352759}
   m_Layer: 0
   m_Name: sprite-asteroids_59 (10)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -24349,7 +24359,7 @@ GameObject:
   - component: {fileID: 1159658321}
   m_Layer: 0
   m_Name: sprite-asteroids_60 (6)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -24460,7 +24470,7 @@ GameObject:
   - component: {fileID: 1161861922}
   m_Layer: 0
   m_Name: sprite-asteroids_45 (5)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -24572,7 +24582,7 @@ GameObject:
   - component: {fileID: 1177023550}
   m_Layer: 0
   m_Name: sprite-asteroids_0 (2)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -24684,7 +24694,7 @@ GameObject:
   - component: {fileID: 1178014841}
   m_Layer: 0
   m_Name: sprite-asteroids_63 (3)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -24797,7 +24807,7 @@ GameObject:
   - component: {fileID: 1182425788}
   m_Layer: 0
   m_Name: sprite-asteroids_3 (8)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -24910,7 +24920,7 @@ GameObject:
   - component: {fileID: 1187366616}
   m_Layer: 0
   m_Name: preview_17_1_10 (2)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25001,7 +25011,7 @@ GameObject:
   - component: {fileID: 1194470557}
   m_Layer: 0
   m_Name: sprite-asteroids_3 (5)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25102,53 +25112,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!1001 &1198464251
-Prefab:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 4818185684838288, guid: a4e8f81e3a2f30c4eaef6844fec6edec, type: 2}
-      propertyPath: m_LocalPosition.x
-      value: 0.2
-      objectReference: {fileID: 0}
-    - target: {fileID: 4818185684838288, guid: a4e8f81e3a2f30c4eaef6844fec6edec, type: 2}
-      propertyPath: m_LocalPosition.y
-      value: -0.2
-      objectReference: {fileID: 0}
-    - target: {fileID: 4818185684838288, guid: a4e8f81e3a2f30c4eaef6844fec6edec, type: 2}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4818185684838288, guid: a4e8f81e3a2f30c4eaef6844fec6edec, type: 2}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4818185684838288, guid: a4e8f81e3a2f30c4eaef6844fec6edec, type: 2}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4818185684838288, guid: a4e8f81e3a2f30c4eaef6844fec6edec, type: 2}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4818185684838288, guid: a4e8f81e3a2f30c4eaef6844fec6edec, type: 2}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4818185684838288, guid: a4e8f81e3a2f30c4eaef6844fec6edec, type: 2}
-      propertyPath: m_RootOrder
-      value: 4
-      objectReference: {fileID: 0}
-    - target: {fileID: 114177480141128040, guid: a4e8f81e3a2f30c4eaef6844fec6edec,
-        type: 2}
-      propertyPath: joystick
-      value: 
-      objectReference: {fileID: 1248483204}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: a4e8f81e3a2f30c4eaef6844fec6edec, type: 2}
-  m_IsPrefabAsset: 0
 --- !u!1 &1199311385
 GameObject:
   m_ObjectHideFlags: 0
@@ -25161,7 +25124,7 @@ GameObject:
   - component: {fileID: 1199311387}
   m_Layer: 0
   m_Name: sprite-asteroids_35 (3)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25273,7 +25236,7 @@ GameObject:
   - component: {fileID: 1202362391}
   m_Layer: 0
   m_Name: sprite-asteroids_13 (1)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25385,7 +25348,7 @@ GameObject:
   - component: {fileID: 1205517256}
   m_Layer: 0
   m_Name: sprite-asteroids_38 (3)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25498,7 +25461,7 @@ GameObject:
   - component: {fileID: 1207117769}
   m_Layer: 0
   m_Name: sprite-asteroids_60 (15)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25609,7 +25572,7 @@ GameObject:
   - component: {fileID: 1208760676}
   m_Layer: 0
   m_Name: sprite-asteroids_45 (12)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25721,7 +25684,7 @@ GameObject:
   - component: {fileID: 1215105386}
   m_Layer: 0
   m_Name: preview_17_1_4
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25812,7 +25775,7 @@ GameObject:
   - component: {fileID: 1216425657}
   m_Layer: 0
   m_Name: sprite-asteroids_35 (7)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25924,7 +25887,7 @@ GameObject:
   - component: {fileID: 1217823565}
   m_Layer: 0
   m_Name: sprite-asteroids_28 (1)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -26041,7 +26004,7 @@ GameObject:
   - component: {fileID: 1218945426}
   m_Layer: 0
   m_Name: sprite-asteroids_5 (2)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -26156,7 +26119,7 @@ GameObject:
   - component: {fileID: 1221008338}
   m_Layer: 0
   m_Name: sprite-asteroids_46 (4)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -26269,7 +26232,7 @@ GameObject:
   - component: {fileID: 1222647113}
   m_Layer: 0
   m_Name: sprite-asteroids_3 (4)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -26382,7 +26345,7 @@ GameObject:
   - component: {fileID: 1224915445}
   m_Layer: 0
   m_Name: sprite-asteroids_46 (3)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -26495,7 +26458,7 @@ GameObject:
   - component: {fileID: 1225568970}
   m_Layer: 0
   m_Name: sprite-asteroids_9 (5)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -26610,7 +26573,7 @@ GameObject:
   - component: {fileID: 1226788019}
   m_Layer: 0
   m_Name: sprite-asteroids_63 (6)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -26723,7 +26686,7 @@ GameObject:
   - component: {fileID: 1229208488}
   m_Layer: 0
   m_Name: sprite-asteroids_9 (11)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -26948,7 +26911,7 @@ GameObject:
   - component: {fileID: 1235675373}
   m_Layer: 0
   m_Name: sprite-asteroids_46 (1)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -27061,7 +27024,7 @@ GameObject:
   - component: {fileID: 1238619149}
   m_Layer: 0
   m_Name: sprite-asteroids_40 (2)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -27176,7 +27139,7 @@ GameObject:
   - component: {fileID: 1246368888}
   m_Layer: 0
   m_Name: sprite-asteroids_59 (14)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -27278,12 +27241,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &1248483204 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 114420315843776050, guid: c82ca9f03bcdcd041ae01e5ab665f26a,
-    type: 2}
-  m_PrefabInternal: {fileID: 1977167474}
-  m_Script: {fileID: 11500000, guid: cecce8d3f549de045bea5fd79de9e7cb, type: 3}
 --- !u!1 &1251316522
 GameObject:
   m_ObjectHideFlags: 0
@@ -27296,7 +27253,7 @@ GameObject:
   - component: {fileID: 1251316524}
   m_Layer: 0
   m_Name: preview_17_1_7
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -27387,7 +27344,7 @@ GameObject:
   - component: {fileID: 1254017320}
   m_Layer: 0
   m_Name: sprite-asteroids_3 (6)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -27500,7 +27457,7 @@ GameObject:
   - component: {fileID: 1261608370}
   m_Layer: 0
   m_Name: sprite-asteroids_38 (8)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -27613,7 +27570,7 @@ GameObject:
   - component: {fileID: 1265936137}
   m_Layer: 0
   m_Name: sprite-asteroids_5 (8)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -27728,7 +27685,7 @@ GameObject:
   - component: {fileID: 1267206314}
   m_Layer: 0
   m_Name: sprite-asteroids_8 (10)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -27840,7 +27797,7 @@ GameObject:
   - component: {fileID: 1269841988}
   m_Layer: 0
   m_Name: sprite-asteroids_1
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -27952,7 +27909,7 @@ GameObject:
   - component: {fileID: 1275327825}
   m_Layer: 0
   m_Name: sprite-asteroids_30 (2)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -28064,7 +28021,7 @@ GameObject:
   - component: {fileID: 1285923094}
   m_Layer: 0
   m_Name: sprite-asteroids_56 (1)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -28178,7 +28135,7 @@ GameObject:
   - component: {fileID: 1291396508}
   m_Layer: 0
   m_Name: sprite-asteroids_9 (4)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -28293,7 +28250,7 @@ GameObject:
   - component: {fileID: 1292755463}
   m_Layer: 0
   m_Name: sprite-asteroids_1 (7)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -28405,7 +28362,7 @@ GameObject:
   - component: {fileID: 1295120287}
   m_Layer: 0
   m_Name: sprite-asteroids_20 (1)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -28520,7 +28477,7 @@ GameObject:
   - component: {fileID: 1295218023}
   m_Layer: 0
   m_Name: sprite-asteroids_30 (5)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -28632,7 +28589,7 @@ GameObject:
   - component: {fileID: 1316413099}
   m_Layer: 0
   m_Name: sprite-asteroids_60 (7)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -28743,7 +28700,7 @@ GameObject:
   - component: {fileID: 1318978250}
   m_Layer: 0
   m_Name: sprite-asteroids_35 (4)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -28855,7 +28812,7 @@ GameObject:
   - component: {fileID: 1324319520}
   m_Layer: 0
   m_Name: sprite-asteroids_1 (1)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -28967,7 +28924,7 @@ GameObject:
   - component: {fileID: 1325068437}
   m_Layer: 0
   m_Name: sprite-asteroids_38 (11)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -29080,7 +29037,7 @@ GameObject:
   - component: {fileID: 1325623606}
   m_Layer: 0
   m_Name: sprite-asteroids_46 (7)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -29193,7 +29150,7 @@ GameObject:
   - component: {fileID: 1335806657}
   m_Layer: 0
   m_Name: sprite-asteroids_11 (3)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -29306,7 +29263,7 @@ GameObject:
   - component: {fileID: 1341944837}
   m_Layer: 0
   m_Name: sprite-asteroids_59 (2)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -29420,7 +29377,7 @@ GameObject:
   - component: {fileID: 1342088872}
   m_Layer: 0
   m_Name: sprite-asteroids_8 (1)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -29532,7 +29489,7 @@ GameObject:
   - component: {fileID: 1344457916}
   m_Layer: 0
   m_Name: sprite-asteroids_7 (7)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -29645,7 +29602,7 @@ GameObject:
   - component: {fileID: 1355956196}
   m_Layer: 0
   m_Name: sprite-asteroids_2 (6)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -29758,7 +29715,7 @@ GameObject:
   - component: {fileID: 1363738921}
   m_Layer: 0
   m_Name: preview_17_1_3 (1)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -29849,7 +29806,7 @@ GameObject:
   - component: {fileID: 1370716542}
   m_Layer: 0
   m_Name: sprite-asteroids_24 (9)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -29960,7 +29917,7 @@ GameObject:
   - component: {fileID: 1372013093}
   m_Layer: 0
   m_Name: sprite-asteroids_45 (8)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30072,7 +30029,7 @@ GameObject:
   - component: {fileID: 1374859752}
   m_Layer: 0
   m_Name: sprite-asteroids_50 (8)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30184,7 +30141,7 @@ GameObject:
   - component: {fileID: 1378039912}
   m_Layer: 0
   m_Name: sprite-asteroids_50 (6)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30296,7 +30253,7 @@ GameObject:
   - component: {fileID: 1387343547}
   m_Layer: 0
   m_Name: sprite-asteroids_45 (5)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30408,7 +30365,7 @@ GameObject:
   - component: {fileID: 1392940431}
   m_Layer: 0
   m_Name: sprite-asteroids_5 (7)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30523,7 +30480,7 @@ GameObject:
   - component: {fileID: 1398379133}
   m_Layer: 0
   m_Name: sprite-asteroids_20 (4)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30638,7 +30595,7 @@ GameObject:
   - component: {fileID: 1402849747}
   m_Layer: 0
   m_Name: sprite-asteroids_48 (4)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30751,7 +30708,7 @@ GameObject:
   - component: {fileID: 1406964246}
   m_Layer: 0
   m_Name: sprite-asteroids_46 (5)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30864,7 +30821,7 @@ GameObject:
   - component: {fileID: 1407326619}
   m_Layer: 0
   m_Name: sprite-asteroids_50 (7)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30976,7 +30933,7 @@ GameObject:
   - component: {fileID: 1412357968}
   m_Layer: 0
   m_Name: preview_17_1_0
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -31067,7 +31024,7 @@ GameObject:
   - component: {fileID: 1413465734}
   m_Layer: 0
   m_Name: sprite-asteroids_7 (6)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -31180,7 +31137,7 @@ GameObject:
   - component: {fileID: 1420025846}
   m_Layer: 0
   m_Name: preview_17_1_8 (1)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -31271,7 +31228,7 @@ GameObject:
   - component: {fileID: 1424682521}
   m_Layer: 0
   m_Name: sprite-asteroids_24 (3)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -31382,7 +31339,7 @@ GameObject:
   - component: {fileID: 1448555158}
   m_Layer: 0
   m_Name: sprite-asteroids_3 (5)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -31495,7 +31452,7 @@ GameObject:
   - component: {fileID: 1450127235}
   m_Layer: 0
   m_Name: sprite-asteroids_30 (8)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -31607,7 +31564,7 @@ GameObject:
   - component: {fileID: 1460349088}
   m_Layer: 0
   m_Name: sprite-asteroids_13 (2)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -31719,7 +31676,7 @@ GameObject:
   - component: {fileID: 1460361256}
   m_Layer: 0
   m_Name: sprite-asteroids_63 (4)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -31832,7 +31789,7 @@ GameObject:
   - component: {fileID: 1466929681}
   m_Layer: 0
   m_Name: sprite-asteroids_54 (3)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -31946,7 +31903,7 @@ GameObject:
   - component: {fileID: 1468968963}
   m_Layer: 0
   m_Name: sprite-asteroids_10 (4)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -32059,7 +32016,7 @@ GameObject:
   - component: {fileID: 1473231094}
   m_Layer: 0
   m_Name: sprite-asteroids_60 (6)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -32170,7 +32127,7 @@ GameObject:
   - component: {fileID: 1491123163}
   m_Layer: 0
   m_Name: sprite-asteroids_11 (4)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -32283,7 +32240,7 @@ GameObject:
   - component: {fileID: 1491222519}
   m_Layer: 0
   m_Name: sprite-asteroids_56 (3)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -32397,7 +32354,7 @@ GameObject:
   - component: {fileID: 1494418305}
   m_Layer: 0
   m_Name: preview_17_1_4 (1)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -32488,7 +32445,7 @@ GameObject:
   - component: {fileID: 1496796647}
   m_Layer: 0
   m_Name: preview_17_1_11 (1)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -32579,7 +32536,7 @@ GameObject:
   - component: {fileID: 1501599505}
   m_Layer: 0
   m_Name: sprite-asteroids_60 (4)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -32690,7 +32647,7 @@ GameObject:
   - component: {fileID: 1504096117}
   m_Layer: 0
   m_Name: sprite-asteroids_45 (2)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -32802,7 +32759,7 @@ GameObject:
   - component: {fileID: 1520713159}
   m_Layer: 0
   m_Name: sprite-asteroids_11 (4)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -32915,7 +32872,7 @@ GameObject:
   - component: {fileID: 1523477840}
   m_Layer: 0
   m_Name: sprite-asteroids_3
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -33028,7 +32985,7 @@ GameObject:
   - component: {fileID: 1529135529}
   m_Layer: 0
   m_Name: sprite-asteroids_38 (6)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -33141,7 +33098,7 @@ GameObject:
   - component: {fileID: 1532921052}
   m_Layer: 0
   m_Name: sprite-asteroids_30
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -33253,7 +33210,7 @@ GameObject:
   - component: {fileID: 1533167656}
   m_Layer: 0
   m_Name: sprite-asteroids_24
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -33446,7 +33403,7 @@ GameObject:
   - component: {fileID: 1545265977}
   m_Layer: 0
   m_Name: sprite-asteroids_6 (6)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -33562,7 +33519,7 @@ GameObject:
   - component: {fileID: 1552414485}
   m_Layer: 0
   m_Name: sprite-asteroids_9 (1)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -33677,7 +33634,7 @@ GameObject:
   - component: {fileID: 1565068609}
   m_Layer: 0
   m_Name: sprite-asteroids_24 (5)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -33788,7 +33745,7 @@ GameObject:
   - component: {fileID: 1570874091}
   m_Layer: 0
   m_Name: sprite-asteroids_24 (1)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -33899,7 +33856,7 @@ GameObject:
   - component: {fileID: 1590961865}
   m_Layer: 0
   m_Name: sprite-asteroids_5 (4)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -34014,7 +33971,7 @@ GameObject:
   - component: {fileID: 1592139161}
   m_Layer: 0
   m_Name: sprite-asteroids_30 (1)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -34126,7 +34083,7 @@ GameObject:
   - component: {fileID: 1593955398}
   m_Layer: 0
   m_Name: sprite-asteroids_1 (4)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -34238,7 +34195,7 @@ GameObject:
   - component: {fileID: 1595768740}
   m_Layer: 0
   m_Name: sprite-asteroids_4 (8)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -34351,7 +34308,7 @@ GameObject:
   - component: {fileID: 1600291354}
   m_Layer: 0
   m_Name: preview_17_1_11
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -34439,9 +34396,10 @@ GameObject:
   m_Component:
   - component: {fileID: 1601076979}
   - component: {fileID: 1601076980}
+  - component: {fileID: 1601076981}
   m_Layer: 0
   m_Name: Red-Lines-PLanet
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -34505,6 +34463,21 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!58 &1601076981
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1601076978}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -0.024056775, y: -0.023185516}
+  serializedVersion: 2
+  m_Radius: 4.017393
 --- !u!1 &1603576939
 GameObject:
   m_ObjectHideFlags: 0
@@ -34517,7 +34490,7 @@ GameObject:
   - component: {fileID: 1603576941}
   m_Layer: 0
   m_Name: sprite-asteroids_40 (3)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -34632,7 +34605,7 @@ GameObject:
   - component: {fileID: 1607515002}
   m_Layer: 0
   m_Name: sprite-asteroids_45
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -34744,7 +34717,7 @@ GameObject:
   - component: {fileID: 1612128869}
   m_Layer: 0
   m_Name: preview_17_1_1 (1)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -34835,7 +34808,7 @@ GameObject:
   - component: {fileID: 1634980201}
   m_Layer: 0
   m_Name: sprite-asteroids_6 (4)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -34951,7 +34924,7 @@ GameObject:
   - component: {fileID: 1637321194}
   m_Layer: 0
   m_Name: sprite-asteroids_13 (6)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -35063,7 +35036,7 @@ GameObject:
   - component: {fileID: 1638682994}
   m_Layer: 0
   m_Name: sprite-asteroids_9 (1)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -35178,7 +35151,7 @@ GameObject:
   - component: {fileID: 1640139170}
   m_Layer: 0
   m_Name: sprite-asteroids_20 (6)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -35293,7 +35266,7 @@ GameObject:
   - component: {fileID: 1648215955}
   m_Layer: 0
   m_Name: preview_17_1_13
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -35384,7 +35357,7 @@ GameObject:
   - component: {fileID: 1649209268}
   m_Layer: 0
   m_Name: sprite-asteroids_50 (1)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -35484,6 +35457,48 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1001 &1655809703
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4294236076091172, guid: ffeecdc8c9203c945aea49f2bd99f95a, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4294236076091172, guid: ffeecdc8c9203c945aea49f2bd99f95a, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4294236076091172, guid: ffeecdc8c9203c945aea49f2bd99f95a, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4294236076091172, guid: ffeecdc8c9203c945aea49f2bd99f95a, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4294236076091172, guid: ffeecdc8c9203c945aea49f2bd99f95a, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4294236076091172, guid: ffeecdc8c9203c945aea49f2bd99f95a, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4294236076091172, guid: ffeecdc8c9203c945aea49f2bd99f95a, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4294236076091172, guid: ffeecdc8c9203c945aea49f2bd99f95a, type: 2}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ffeecdc8c9203c945aea49f2bd99f95a, type: 2}
+  m_IsPrefabAsset: 0
 --- !u!1 &1656885747
 GameObject:
   m_ObjectHideFlags: 0
@@ -35496,7 +35511,7 @@ GameObject:
   - component: {fileID: 1656885749}
   m_Layer: 0
   m_Name: sprite-asteroids_4 (4)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -35609,7 +35624,7 @@ GameObject:
   - component: {fileID: 1663278547}
   m_Layer: 0
   m_Name: sprite-asteroids_38 (5)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -35722,7 +35737,7 @@ GameObject:
   - component: {fileID: 1663758473}
   m_Layer: 0
   m_Name: sprite-asteroids_28 (6)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -35839,7 +35854,7 @@ GameObject:
   - component: {fileID: 1664083773}
   m_Layer: 0
   m_Name: sprite-asteroids_8
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -35951,7 +35966,7 @@ GameObject:
   - component: {fileID: 1675162581}
   m_Layer: 0
   m_Name: sprite-asteroids_11 (2)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -36064,7 +36079,7 @@ GameObject:
   - component: {fileID: 1676846785}
   m_Layer: 0
   m_Name: sprite-asteroids_11 (5)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -36177,7 +36192,7 @@ GameObject:
   - component: {fileID: 1686196246}
   m_Layer: 0
   m_Name: sprite-asteroids_24 (1)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -36288,7 +36303,7 @@ GameObject:
   - component: {fileID: 1688959944}
   m_Layer: 0
   m_Name: sprite-asteroids_4
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -36401,7 +36416,7 @@ GameObject:
   - component: {fileID: 1689727657}
   m_Layer: 0
   m_Name: sprite-asteroids_45 (3)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -36513,7 +36528,7 @@ GameObject:
   - component: {fileID: 1693002035}
   m_Layer: 0
   m_Name: sprite-asteroids_6 (8)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -36629,7 +36644,7 @@ GameObject:
   - component: {fileID: 1705321210}
   m_Layer: 0
   m_Name: sprite-asteroids_45 (4)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -36741,7 +36756,7 @@ GameObject:
   - component: {fileID: 1705391127}
   m_Layer: 0
   m_Name: sprite-asteroids_40 (8)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -36856,7 +36871,7 @@ GameObject:
   - component: {fileID: 1710814281}
   m_Layer: 0
   m_Name: sprite-asteroids_46 (14)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -36969,7 +36984,7 @@ GameObject:
   - component: {fileID: 1716627606}
   m_Layer: 0
   m_Name: sprite-asteroids_40 (7)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -37072,6 +37087,72 @@ Transform:
   m_Father: {fileID: 1230994427}
   m_RootOrder: 54
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -43.543003}
+--- !u!1 &1721155350
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1721155352}
+  - component: {fileID: 1721155351}
+  - component: {fileID: 1721155353}
+  m_Layer: 0
+  m_Name: Boundary
+  m_TagString: Boundary
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!61 &1721155351
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1721155350}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 250, y: 250}
+  m_EdgeRadius: 0
+--- !u!4 &1721155352
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1721155350}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: -101}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1721155353
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1721155350}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28585f13a350c1049b0e8ce67fdca91e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1722770334
 GameObject:
   m_ObjectHideFlags: 0
@@ -37084,7 +37165,7 @@ GameObject:
   - component: {fileID: 1722770336}
   m_Layer: 0
   m_Name: sprite-asteroids_15 (9)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -37195,7 +37276,7 @@ GameObject:
   - component: {fileID: 1729365769}
   m_Layer: 0
   m_Name: sprite-asteroids_60 (14)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -37306,7 +37387,7 @@ GameObject:
   - component: {fileID: 1743185741}
   m_Layer: 0
   m_Name: sprite-asteroids_54
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -37420,7 +37501,7 @@ GameObject:
   - component: {fileID: 1746218393}
   m_Layer: 0
   m_Name: sprite-asteroids_4 (3)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -37533,7 +37614,7 @@ GameObject:
   - component: {fileID: 1748250403}
   m_Layer: 0
   m_Name: sprite-asteroids_4 (5)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -37646,7 +37727,7 @@ GameObject:
   - component: {fileID: 1748755887}
   m_Layer: 0
   m_Name: sprite-asteroids_2 (3)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -37759,7 +37840,7 @@ GameObject:
   - component: {fileID: 1752055198}
   m_Layer: 0
   m_Name: sprite-asteroids_13 (3)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -37919,7 +38000,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1760665584
 GameObject:
@@ -37933,7 +38014,7 @@ GameObject:
   - component: {fileID: 1760665586}
   m_Layer: 0
   m_Name: sprite-asteroids_35
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -38045,7 +38126,7 @@ GameObject:
   - component: {fileID: 1760871751}
   m_Layer: 0
   m_Name: sprite-asteroids_0 (5)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -38235,7 +38316,7 @@ GameObject:
   - component: {fileID: 1766807910}
   m_Layer: 0
   m_Name: sprite-asteroids_6 (1)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -38351,7 +38432,7 @@ GameObject:
   - component: {fileID: 1767817161}
   m_Layer: 0
   m_Name: sprite-asteroids_2 (8)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -38464,7 +38545,7 @@ GameObject:
   - component: {fileID: 1772657624}
   m_Layer: 0
   m_Name: sprite-asteroids_28 (3)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -38581,7 +38662,7 @@ GameObject:
   - component: {fileID: 1776117616}
   m_Layer: 0
   m_Name: sprite-asteroids_56 (7)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -38695,7 +38776,7 @@ GameObject:
   - component: {fileID: 1783134762}
   m_Layer: 0
   m_Name: sprite-asteroids_54 (1)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -38809,7 +38890,7 @@ GameObject:
   - component: {fileID: 1785089929}
   m_Layer: 0
   m_Name: sprite-asteroids_63 (6)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -38922,7 +39003,7 @@ GameObject:
   - component: {fileID: 1785432283}
   m_Layer: 0
   m_Name: sprite-asteroids_63 (5)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -39035,7 +39116,7 @@ GameObject:
   - component: {fileID: 1790755082}
   m_Layer: 0
   m_Name: sprite-asteroids_10 (5)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -39148,7 +39229,7 @@ GameObject:
   - component: {fileID: 1793702824}
   m_Layer: 0
   m_Name: sprite-asteroids_59 (9)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -39262,7 +39343,7 @@ GameObject:
   - component: {fileID: 1801385377}
   m_Layer: 0
   m_Name: sprite-asteroids_24 (6)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -39373,7 +39454,7 @@ GameObject:
   - component: {fileID: 1805179640}
   m_Layer: 0
   m_Name: sprite-asteroids_56 (2)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -39487,7 +39568,7 @@ GameObject:
   - component: {fileID: 1809446038}
   m_Layer: 0
   m_Name: sprite-asteroids_30 (6)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -39599,7 +39680,7 @@ GameObject:
   - component: {fileID: 1810941941}
   m_Layer: 0
   m_Name: sprite-asteroids_5 (9)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -39714,7 +39795,7 @@ GameObject:
   - component: {fileID: 1813565575}
   m_Layer: 0
   m_Name: preview_17_1_9 (1)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -39805,7 +39886,7 @@ GameObject:
   - component: {fileID: 1817862624}
   m_Layer: 0
   m_Name: sprite-asteroids_28 (5)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -39922,7 +40003,7 @@ GameObject:
   - component: {fileID: 1846628930}
   m_Layer: 0
   m_Name: sprite-asteroids_59 (12)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -40036,7 +40117,7 @@ GameObject:
   - component: {fileID: 1846967105}
   m_Layer: 0
   m_Name: sprite-asteroids_0 (2)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -40145,9 +40226,10 @@ GameObject:
   m_Component:
   - component: {fileID: 1848719589}
   - component: {fileID: 1848719590}
+  - component: {fileID: 1848719591}
   m_Layer: 0
   m_Name: Red-Lines-PLanet (2)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -40211,6 +40293,21 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!58 &1848719591
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1848719588}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0.0000076293945, y: 0}
+  serializedVersion: 2
+  m_Radius: 4
 --- !u!1 &1857767268
 GameObject:
   m_ObjectHideFlags: 0
@@ -40223,7 +40320,7 @@ GameObject:
   - component: {fileID: 1857767270}
   m_Layer: 0
   m_Name: preview_17_1_10 (1)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -40314,7 +40411,7 @@ GameObject:
   - component: {fileID: 1876212023}
   m_Layer: 0
   m_Name: sprite-asteroids_48 (3)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -40427,7 +40524,7 @@ GameObject:
   - component: {fileID: 1885140395}
   m_Layer: 0
   m_Name: sprite-asteroids_30 (8)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -40539,7 +40636,7 @@ GameObject:
   - component: {fileID: 1891174961}
   m_Layer: 0
   m_Name: sprite-asteroids_4 (9)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -40652,7 +40749,7 @@ GameObject:
   - component: {fileID: 1900821065}
   m_Layer: 0
   m_Name: sprite-asteroids_46 (2)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -40765,7 +40862,7 @@ GameObject:
   - component: {fileID: 1905187980}
   m_Layer: 0
   m_Name: sprite-asteroids_30 (7)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -40877,7 +40974,7 @@ GameObject:
   - component: {fileID: 1911217437}
   m_Layer: 0
   m_Name: sprite-asteroids_60 (8)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -40988,7 +41085,7 @@ GameObject:
   - component: {fileID: 1913137257}
   m_Layer: 0
   m_Name: sprite-asteroids_15 (7)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -41099,7 +41196,7 @@ GameObject:
   - component: {fileID: 1923551169}
   m_Layer: 0
   m_Name: sprite-asteroids_1 (2)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -41211,7 +41308,7 @@ GameObject:
   - component: {fileID: 1927183417}
   m_Layer: 0
   m_Name: sprite-asteroids_59 (6)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -41376,7 +41473,7 @@ GameObject:
   - component: {fileID: 1932773550}
   m_Layer: 0
   m_Name: sprite-asteroids_7 (1)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -41489,7 +41586,7 @@ GameObject:
   - component: {fileID: 1935064351}
   m_Layer: 0
   m_Name: sprite-asteroids_28 (8)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -41606,7 +41703,7 @@ GameObject:
   - component: {fileID: 1935368297}
   m_Layer: 0
   m_Name: sprite-asteroids_63 (2)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -41719,7 +41816,7 @@ GameObject:
   - component: {fileID: 1944136807}
   m_Layer: 0
   m_Name: sprite-asteroids_28 (4)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -41836,7 +41933,7 @@ GameObject:
   - component: {fileID: 1945159081}
   m_Layer: 0
   m_Name: sprite-asteroids_15 (1)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -41947,7 +42044,7 @@ GameObject:
   - component: {fileID: 1948405778}
   m_Layer: 0
   m_Name: sprite-asteroids_11 (5)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -42060,7 +42157,7 @@ GameObject:
   - component: {fileID: 1951633470}
   m_Layer: 0
   m_Name: preview_17_1_14
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -42151,7 +42248,7 @@ GameObject:
   - component: {fileID: 1953917270}
   m_Layer: 0
   m_Name: sprite-asteroids_46 (10)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -42264,7 +42361,7 @@ GameObject:
   - component: {fileID: 1957215996}
   m_Layer: 0
   m_Name: preview_17_1_1
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -42355,7 +42452,7 @@ GameObject:
   - component: {fileID: 1962567611}
   m_Layer: 0
   m_Name: sprite-asteroids_0
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -42467,7 +42564,7 @@ GameObject:
   - component: {fileID: 1970254476}
   m_Layer: 0
   m_Name: sprite-asteroids_40 (6)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -42582,7 +42679,7 @@ GameObject:
   - component: {fileID: 1971724746}
   m_Layer: 0
   m_Name: sprite-asteroids_54 (5)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -42684,149 +42781,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!1001 &1977167474
-Prefab:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 114113028490067720, guid: c82ca9f03bcdcd041ae01e5ab665f26a,
-        type: 2}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 224863082348293596, guid: c82ca9f03bcdcd041ae01e5ab665f26a,
-        type: 2}
-      propertyPath: m_RootOrder
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 224863082348293596, guid: c82ca9f03bcdcd041ae01e5ab665f26a,
-        type: 2}
-      propertyPath: m_LocalPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 224863082348293596, guid: c82ca9f03bcdcd041ae01e5ab665f26a,
-        type: 2}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 224863082348293596, guid: c82ca9f03bcdcd041ae01e5ab665f26a,
-        type: 2}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 224863082348293596, guid: c82ca9f03bcdcd041ae01e5ab665f26a,
-        type: 2}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 224863082348293596, guid: c82ca9f03bcdcd041ae01e5ab665f26a,
-        type: 2}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 224863082348293596, guid: c82ca9f03bcdcd041ae01e5ab665f26a,
-        type: 2}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 224863082348293596, guid: c82ca9f03bcdcd041ae01e5ab665f26a,
-        type: 2}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 224863082348293596, guid: c82ca9f03bcdcd041ae01e5ab665f26a,
-        type: 2}
-      propertyPath: m_RootOrder
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 224863082348293596, guid: c82ca9f03bcdcd041ae01e5ab665f26a,
-        type: 2}
-      propertyPath: m_AnchoredPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 224863082348293596, guid: c82ca9f03bcdcd041ae01e5ab665f26a,
-        type: 2}
-      propertyPath: m_AnchoredPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 224863082348293596, guid: c82ca9f03bcdcd041ae01e5ab665f26a,
-        type: 2}
-      propertyPath: m_SizeDelta.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 224863082348293596, guid: c82ca9f03bcdcd041ae01e5ab665f26a,
-        type: 2}
-      propertyPath: m_SizeDelta.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 224863082348293596, guid: c82ca9f03bcdcd041ae01e5ab665f26a,
-        type: 2}
-      propertyPath: m_AnchorMin.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 224863082348293596, guid: c82ca9f03bcdcd041ae01e5ab665f26a,
-        type: 2}
-      propertyPath: m_AnchorMin.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 224863082348293596, guid: c82ca9f03bcdcd041ae01e5ab665f26a,
-        type: 2}
-      propertyPath: m_AnchorMax.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 224863082348293596, guid: c82ca9f03bcdcd041ae01e5ab665f26a,
-        type: 2}
-      propertyPath: m_AnchorMax.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 224863082348293596, guid: c82ca9f03bcdcd041ae01e5ab665f26a,
-        type: 2}
-      propertyPath: m_Pivot.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 224863082348293596, guid: c82ca9f03bcdcd041ae01e5ab665f26a,
-        type: 2}
-      propertyPath: m_Pivot.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1276517082206834, guid: c82ca9f03bcdcd041ae01e5ab665f26a, type: 2}
-      propertyPath: m_Name
-      value: Canvas_Controller (1)
-      objectReference: {fileID: 0}
-    - target: {fileID: 114113028490067720, guid: c82ca9f03bcdcd041ae01e5ab665f26a,
-        type: 2}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
-      value: 
-      objectReference: {fileID: 212311507}
-    - target: {fileID: 114113028490067720, guid: c82ca9f03bcdcd041ae01e5ab665f26a,
-        type: 2}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: shoot
-      objectReference: {fileID: 0}
-    - target: {fileID: 114113028490067720, guid: c82ca9f03bcdcd041ae01e5ab665f26a,
-        type: 2}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 114113028490067720, guid: c82ca9f03bcdcd041ae01e5ab665f26a,
-        type: 2}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Mode
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 114113028490067720, guid: c82ca9f03bcdcd041ae01e5ab665f26a,
-        type: 2}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_CallState
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 1276517082206834, guid: c82ca9f03bcdcd041ae01e5ab665f26a, type: 2}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: c82ca9f03bcdcd041ae01e5ab665f26a, type: 2}
-  m_IsPrefabAsset: 0
 --- !u!1 &1978282139
 GameObject:
   m_ObjectHideFlags: 0
@@ -42839,7 +42793,7 @@ GameObject:
   - component: {fileID: 1978282141}
   m_Layer: 0
   m_Name: sprite-asteroids_6 (3)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -42955,7 +42909,7 @@ GameObject:
   - component: {fileID: 1980796897}
   m_Layer: 0
   m_Name: preview_17_1_4 (2)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -43046,7 +43000,7 @@ GameObject:
   - component: {fileID: 1984973411}
   m_Layer: 0
   m_Name: sprite-asteroids_10 (2)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -43159,7 +43113,7 @@ GameObject:
   - component: {fileID: 1990950730}
   m_Layer: 0
   m_Name: sprite-asteroids_56 (8)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -43273,7 +43227,7 @@ GameObject:
   - component: {fileID: 1993289914}
   m_Layer: 0
   m_Name: sprite-asteroids_15 (10)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -43384,7 +43338,7 @@ GameObject:
   - component: {fileID: 2003560359}
   m_Layer: 0
   m_Name: preview_17_1_2 (1)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -43475,7 +43429,7 @@ GameObject:
   - component: {fileID: 2003851626}
   m_Layer: 0
   m_Name: sprite-asteroids_59 (7)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -43589,7 +43543,7 @@ GameObject:
   - component: {fileID: 2008572296}
   m_Layer: 0
   m_Name: sprite-asteroids_4 (2)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -43702,7 +43656,7 @@ GameObject:
   - component: {fileID: 2011660758}
   m_Layer: 0
   m_Name: sprite-asteroids_13
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -43814,7 +43768,7 @@ GameObject:
   - component: {fileID: 2011724522}
   m_Layer: 0
   m_Name: sprite-asteroids_38 (9)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -43927,7 +43881,7 @@ GameObject:
   - component: {fileID: 2015448520}
   m_Layer: 0
   m_Name: sprite-asteroids_5
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -44042,7 +43996,7 @@ GameObject:
   - component: {fileID: 2018489942}
   m_Layer: 0
   m_Name: sprite-asteroids_45 (13)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -44154,7 +44108,7 @@ GameObject:
   - component: {fileID: 2025403742}
   m_Layer: 0
   m_Name: sprite-asteroids_48 (3)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -44267,7 +44221,7 @@ GameObject:
   - component: {fileID: 2026033288}
   m_Layer: 0
   m_Name: sprite-asteroids_45 (6)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -44379,7 +44333,7 @@ GameObject:
   - component: {fileID: 2027550417}
   m_Layer: 0
   m_Name: sprite-asteroids_4 (5)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -44492,7 +44446,7 @@ GameObject:
   - component: {fileID: 2038063052}
   m_Layer: 0
   m_Name: sprite-asteroids_46 (11)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -44605,7 +44559,7 @@ GameObject:
   - component: {fileID: 2039877283}
   m_Layer: 0
   m_Name: sprite-asteroids_54 (3)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -44719,7 +44673,7 @@ GameObject:
   - component: {fileID: 2047685120}
   m_Layer: 0
   m_Name: sprite-asteroids_1 (8)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -44831,7 +44785,7 @@ GameObject:
   - component: {fileID: 2050190708}
   m_Layer: 0
   m_Name: sprite-asteroids_63 (2)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -44944,7 +44898,7 @@ GameObject:
   - component: {fileID: 2051812047}
   m_Layer: 0
   m_Name: sprite-asteroids_46 (9)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -45057,7 +45011,7 @@ GameObject:
   - component: {fileID: 2053686957}
   m_Layer: 0
   m_Name: sprite-asteroids_60 (9)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -45168,7 +45122,7 @@ GameObject:
   - component: {fileID: 2055454682}
   m_Layer: 0
   m_Name: sprite-asteroids_3 (3)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -45281,7 +45235,7 @@ GameObject:
   - component: {fileID: 2055777222}
   m_Layer: 0
   m_Name: sprite-asteroids_46 (8)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -45394,7 +45348,7 @@ GameObject:
   - component: {fileID: 2066933824}
   m_Layer: 0
   m_Name: sprite-asteroids_40 (2)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -45509,7 +45463,7 @@ GameObject:
   - component: {fileID: 2068747243}
   m_Layer: 0
   m_Name: sprite-asteroids_48 (8)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -45622,7 +45576,7 @@ GameObject:
   - component: {fileID: 2072548701}
   m_Layer: 0
   m_Name: sprite-asteroids_48 (9)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -45735,7 +45689,7 @@ GameObject:
   - component: {fileID: 2073997762}
   m_Layer: 0
   m_Name: sprite-asteroids_45 (10)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -45847,7 +45801,7 @@ GameObject:
   - component: {fileID: 2074044209}
   m_Layer: 0
   m_Name: sprite-asteroids_15 (4)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -45958,7 +45912,7 @@ GameObject:
   - component: {fileID: 2081769272}
   m_Layer: 0
   m_Name: sprite-asteroids_40 (7)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -46073,7 +46027,7 @@ GameObject:
   - component: {fileID: 2097159905}
   m_Layer: 0
   m_Name: sprite-asteroids_60 (13)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -46184,7 +46138,7 @@ GameObject:
   - component: {fileID: 2100247024}
   m_Layer: 0
   m_Name: sprite-asteroids_2 (5)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -46297,7 +46251,7 @@ GameObject:
   - component: {fileID: 2104603115}
   m_Layer: 0
   m_Name: preview_17_1_0 (2)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -46388,7 +46342,7 @@ GameObject:
   - component: {fileID: 2109705590}
   m_Layer: 0
   m_Name: sprite-asteroids_8 (4)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -46497,9 +46451,10 @@ GameObject:
   m_Component:
   - component: {fileID: 2113551461}
   - component: {fileID: 2113551462}
+  - component: {fileID: 2113551463}
   m_Layer: 0
   m_Name: blue-planet
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -46563,6 +46518,21 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!58 &2113551463
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2113551460}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 3.8
 --- !u!1 &2115156826
 GameObject:
   m_ObjectHideFlags: 0
@@ -46575,7 +46545,7 @@ GameObject:
   - component: {fileID: 2115156828}
   m_Layer: 0
   m_Name: sprite-asteroids_9 (9)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -46690,7 +46660,7 @@ GameObject:
   - component: {fileID: 2124110711}
   m_Layer: 0
   m_Name: sprite-asteroids_60 (3)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -46801,7 +46771,7 @@ GameObject:
   - component: {fileID: 2124832388}
   m_Layer: 0
   m_Name: sprite-asteroids_7 (4)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -46914,7 +46884,7 @@ GameObject:
   - component: {fileID: 2133524736}
   m_Layer: 0
   m_Name: sprite-asteroids_59 (5)
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
