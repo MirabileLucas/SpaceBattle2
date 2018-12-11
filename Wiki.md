@@ -126,16 +126,16 @@ Chaque panneau qui doit rester accessible lors des changements de scène possèd
 Les panneaux _CreateMatch_ et _Join_Match_ possède en plus le moyen de crée un match (avec la fonction _CreateMatch()_ dans _CreateMatch.cs_) ou d'en rejoindre (avec la fonction _JoinMatch()_ dans _Join_Match.cs_)
 
 ### Bonus
-
-Quand un bonus est ramassé par un vaisseau, il peut soit être utiliser direct (carburant), soit durer un certain temps (bonus de tirs et de vitesse). Dans ce cas, il desactive son sprite et son collider pour ne pas être rammasé une deuxieme fois, applique les modifications au vaisseau qui l'a ramassé, attends un certain temps _duration_, puis remet les paramètres du vaisseau par default et se dertuit.
+Quand un bonus est ramassé par un vaisseau, il peut soit être utilisé direct (carburant), soit durer un certain temps (bonus de tirs et de vitesse). Dans ce cas, il désactive son sprite et son collider pour ne pas être ramassé une deuxième fois, applique les modifications au vaisseau qui l'a ramassé, attends un certain temps _duration_, puis remet les paramètres du vaisseau par défaut et se détruit.
 
 ### Coroutine
-Dans certains scripts (RespawnController, BonusManager, les bonus qui ont une durée), des fonctions renvoient un _IEnumerator_ et sont lancer avec _StartCoroutine(maFonction())_ : Ce sont simplement des fonctions normales qui peuvent être suspendues pendant un certain temps par _WaitForSeconds(time)_.
+Dans certains scripts (RespawnController, BonusManager, les bonus qui ont une durée), des fonctions renvoient un _IEnumerator_ et sont lancées avec _StartCoroutine(maFonction())_ : Ce sont simplement des fonctions normales qui peuvent être suspendues pendant un certain temps par _WaitForSeconds(time)_.
 
 ### Position aléatoire libre
-Dans les scripts _RespawnController_ et _BonusManager_, pour faire apparaitre un bonus ou réapparaitre un vaisseau, on utilise la fonction _OverlapCircle()_ pour determiner si il y a déjà un bonus, un vaisseau ou une planete sur la position aléatoire. Si c'est le cas on calcule une nouvelle position et on test a nouveau.
-La fontion _OverlapCircle()_ fonctionne en detectant si il y a un collider dans le cercle donnée, cependant l'objet _Boundary_ recouvre tout l'espace de jeu. On utilise donc le paramètre _minZ_ (reglé ici sur -100) pour ne detecter les colliders qu'au dessus de d'une certaine position sur l'axe z, et on regle la position z de _Boundary_ sur -101 (plus bas).
-Tout autre objet dont le collider ne doit pas être pris en compte par cette detection devra donc être positionné en dessou de z = -100
+Dans les scripts _RespawnController_ et _BonusManager_, pour faire apparaitre un bonus ou réapparaitre un vaisseau, on utilise la fonction _OverlapCircle()_ pour déterminer si il y a déjà un bonus, un vaisseau ou une planète sur la position aléatoire. Si c'est le cas on calcule une nouvelle position et on test à nouveau.
+
+La fonction _OverlapCircle()_ fonctionne en détectant si il y a un collider dans le cercle donné, cependant l'objet _Boundary_ recouvre tout l'espace de jeu. On utilise donc le paramètre _minZ_ (réglé ici sur -100) pour ne détecter les colliders qu'au-dessus d'une certaine position sur l'axe z, et on règle la position z de _Boundary_ sur -101 (plus bas).
+Tout autre objet dont le collider ne doit pas être pris en compte par cette détection devra donc être positionné en dessous de z = -100
 
 ## Problèmes et évolutions
 ### Problèmes
@@ -169,7 +169,7 @@ En ce qui concerne la jauge de carburant, elle est modifiée à chaque déplacem
 
 
 Lors de la destruction des vaisseaux, le GameObject _Spaceship_ est littéralement détruit, ce qui entraine de nombreuses complications au moment de la réapparition, de nombreuses références doivent êtres réattribués par exemple. Pour rendre le code plus propre, on peut remplacer la destruction par une désactivation du sprite, du collider et du script de _Spaceship_.
-Attention, il faudra annuler et détruire les bonus actifs au moment de la desactivation pour ne pas qu'ils agissent encore après la réapparition.
+Attention, il faudra annuler et détruire les bonus actifs au moment de la désactivation pour ne pas qu'ils agissent encore après la réapparition.
 
 ## Trucs et astuces
 La documentation Unity est très approfondie, il existe de nombreux tuto, forums et autres qui en parle. Il existe aussi le Unity Store qui fournit de nombreux éléments (certains gratuits), il est très intéressant de les utiliser.
