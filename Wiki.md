@@ -65,7 +65,7 @@ Les différentes versions du jeu sont disponibles dans le dépôt Github, dans l
 _Remarque : L'installation pose problèmes sur certains téléphones sans explications_
 
 ### Pour le développeur
-Ayant priviligié le _Collab_ de Unity, nous n'avons pas travaillé via GitHub. 
+Ayant privilégié le _Collab_ de Unity, nous n'avons pas travaillé via GitHub. 
 
 **_ Méthode clé ou git_**
 
@@ -103,14 +103,14 @@ _Shot_ contient les _prefabs_ des quatre types de tirs implémentés.
 ## Points techniques
 ### Réseaux & MatchMaking
 Pour permettre l'utilisation du matchmaking Unity, nous avons dû activer une option via l'interface web lié à notre projet posté sur le collab Unity. Pour y accéder via un projet collab :
-* Onglet _Services_ (à coté de l'inspecteur)
+* Onglet _Services_ (à côté de l'inspecteur)
 * _Multiplayers_ (dans la liste des services)
 * _Go to Dashboard_
 
 ### Spaceship
-Ce script regroupe les fonctions liées au vaisseau comme le déplacement et les tirs. Le mouvement est décrit dans la fonction move(), elle même appelé dans _Update()_ qui est une fonction appelé à chaque nouvelle frame, et se base entièrement sur le _Joystick Virtuel_.
+Ce script regroupe les fonctions liées au vaisseau comme le déplacement et les tirs. Le mouvement est décrit dans la fonction move(), elle-même appelé dans _Update()_ qui est une fonction appelée à chaque nouvelle frame, et se base entièrement sur le _Joystick Virtuel_.
 
-En ce qui concerne les tirs, la fonction est précédé de _[Command]_ qui indique que la fonction est appelé par le client mais exécuté par le serveur.
+En ce qui concerne les tirs, la fonction est précédé de _[Command]_ qui indique que la fonction est appelée par le client mais exécutée par le serveur.
 
 ### Caméra et contrôles
 La caméra possède différents objets car elle est unique pour chaque joueur et plusieurs caméras ne doivent pas se surposer, il en va de même pour les canvas qui contiennent les contrôles. Dans le cas contraire, on peut voir apparaitre des problèmes comme une caméra centrée sur le mauvais vaisseau ou des commandes qui ne sont pas accessibles (car en dessous des contrôles d'un autre joueurs).
@@ -153,7 +153,7 @@ Une nouvelle organisation à l'aide de _Design Pattern_ serait envisageable, com
 Pour éviter de mettre fin à une partie si l'hôte se déconnecte, une migration d'hôte est envisageable (le composant NetworkMigrationManager peut être utile).
 
 
-En ce qui concerne la jauge de carburant, elle est modifié à chaque déplacement et le code viens d'un asset externe. Le code en commentaire était une tentative pour faire changer cette jauge de couleur en dépassant un certain seuil. Cette version n'a pas fonctionné mais le code peut être utile.
+En ce qui concerne la jauge de carburant, elle est modifiée à chaque déplacement et le code viens d'un asset externe. Le code en commentaire était une tentative pour faire changer cette jauge de couleur en dépassant un certain seuil. Cette version n'a pas fonctionné mais le code peut être utile.
 
 ## Trucs et astuces
 La documentation Unity est très approfondie, il existe de nombreux tuto, forums et autres qui en parle. Il existe aussi le Unity Store qui fournit de nombreux éléments (certains gratuits), il est très intéressant de les utiliser.
