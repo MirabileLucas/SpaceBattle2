@@ -101,9 +101,29 @@ Le _prefab_ _Player 2_ est le joueur dans les modes multi, il est composé d'un 
 _Shot_ contient les _prefabs_ des quatre types de tirs implémentés.
 
 ## Points techniques
+### Réseaux & MatchMaking
+Pour permettre l'utilisation du matchmaking Unity, nous avons dû activer une option via l'interface web lié à notre projet posté sur le collab Unity. Pour y accéder via un projet collab :
+* Onglet _Services_ (à coté de l'inspecteur)
+* _Multiplayers_ (dans la liste des services)
+* _Go to Dashboard_
+
+### Spaceship
+Ce script regroupe les fonctions liées au vaisseau comme le déplacement et les tirs. Le mouvement est décrit dans la fonction move(), elle même appelé dans _Update()_ qui est une fonction appelé à chaque nouvelle frame, et se base entièrement sur le _Joystick Virtuel_.
+
+En ce qui concerne les tirs, la fonction est précédé de _[Command]_ qui indique que la fonction est appelé par le client mais exécuté par le serveur.
+
+### Caméra et contrôles
+La caméra possède différents objets car elle est unique pour chaque joueur et plusieurs caméras ne doivent pas se surposer, il en va de même pour les canvas qui contiennent les contrôles. Dans le cas contraire, on peut voir apparaitre des problèmes comme une caméra centrée sur le mauvais vaisseau ou des commandes qui ne sont pas accessibles (car en dessous des contrôles d'un autre joueurs).
+
+### Player Start
+Cette classe permet de faire descendre l'identité d'un joueur dans la hiérarchie des objets. En effet, en ligne, chaque objet doit avoir une identité (qui indique ainsi l'autorité) mais les enfants ne peuvent pas en avoir et ne connaissent pas l'identité de leur père, pour savoir s'ils ont le droit d'effectuer certaines actions, ils ont donc une variable booléenne qui le leur indique et qui est initialisée à la création du joueur. 
+
 ### GUI
-Chaque panneau possède une classe liées de définition et d'instanciation, deplus certain possède en plus une classe (qui commence par _DontDestroy_) qui les rend persistante lors des changement de scène.
-Les panneau CreateMatch et Join_Match possède en plus dans leurs classe le moyen de crée un macth (avec la fonction .CreateMatch() dans CreateMatch.cs) ou d'en rejoindre (avec la fonction .JoinMatch() dans Join_Match.cs)
+Chaque panneau qui doit rester accessible lors des changements de scène possède deux classes liées :
+*	une classe de définition et d'instanciation
+* une classe qui rend une interface persistante (qui commence par DontDestroy)
+
+Les panneaux _CreateMatch_ et _Join_Match_ possède en plus le moyen de crée un match (avec la fonction _CreateMatch()_ dans _CreateMatch.cs_) ou d'en rejoindre (avec la fonction _JoinMatch()_ dans _Join_Match.cs_)
 
 ## Problèmes et évolutions
 ### Problèmes
@@ -115,14 +135,25 @@ Un autre problème est la réapparition en multi-joueurs. Si l'on meurt il est i
 Du côté des bonus, leur apparition est propre aux joueurs. C'est à dire que chaque joueur à des bonus différents qui apparaissent à différents endroits de la carte. 
 
 ### Évolutions
-Lors de l'élaboration du cahier des charges, de nombreuses fonctionnalités avait été discutées tel que la création de 4 modes de jeu, de l'implémentation d'un harpon, etc. Ceux-ci n'ont pas encore été réalisé.
+Lors de l'élaboration du cahier des charges, de nombreuses fonctionnalités avait été discutées tel que :
+* quatre modes de jeu (Entrainement, Match à mort, Grand prix, Capture de drapeaux)
+* implémentation d'un harpon
+* ajout de mines
+
+Ceux-ci n'ont pas encore été réalisé.
 L'implémentation d'une jauge de carburant a été effectuée dans la partie solo mais n'est pas encore présente dans le multi (ainsi que son bonus associé).
 
-Au niveau du code, nous avons dupliqué énormément de code entre les fonctionnalités solo et multi. Une évolution serait de fusionner ces fichiers pour un projet plus propre.
+
+Au niveau du code, nous avons dupliqué énormément de code entre les fonctionnalités solo et multi. Une évolution serait de fusionner ces fichiers pour un projet plus propre (notamment à l'aide d'une interface Spaceship).
+
 
 Une nouvelle organisation à l'aide de _Design Pattern_ serait envisageable, comme par exemple pour les bonus, les tirs, ...
 
+
 Pour éviter de mettre fin à une partie si l'hôte se déconnecte, une migration d'hôte est envisageable (le composant NetworkMigrationManager peut être utile).
+
+
+En ce qui concerne la jauge de carburant, elle est modifié à chaque déplacement et le code viens d'un asset externe. Le code en commentaire était une tentative pour faire changer cette jauge de couleur en dépassant un certain seuil. Cette version n'a pas fonctionné mais le code peut être utile.
 
 ## Trucs et astuces
 La documentation Unity est très approfondie, il existe de nombreux tuto, forums et autres qui en parle. Il existe aussi le Unity Store qui fournit de nombreux éléments (certains gratuits), il est très intéressant de les utiliser.
@@ -136,6 +167,8 @@ https://assetstore.unity.com/packages/tools/input-management/joystick-pack-10763
 https://assetstore.unity.com/packages/2d/textures-materials/simple-spaceships-81051
 #### Graphismes spatiaux
 https://assetstore.unity.com/packages/templates/systems/space-graphics-basic-pack-119857
+#### Jauge de carburant
+https://assetstore.unity.com/packages/tools/gui/simple-health-bar-free-95420
 #### Exemple d'un jeu simple et récupération de graphisme
 https://assetstore.unity.com/packages/templates/packs/space-shooter-free-107260
 
