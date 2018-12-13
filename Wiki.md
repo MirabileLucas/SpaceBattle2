@@ -6,7 +6,7 @@ Projet de Génie Logiciel - Master 1 Informatique - Luminy
 
 ## Présentation
 Space Battle est un jeu de tir et de courses spatial en 2D inspiré du jeu de 1991 XPilot et développé à l'aide du moteur de jeu Unity. 
-Dans ce projet, le jeu est développé pour mobile et doit pouvoir réunir diifférents joueurs distants sur différentes 
+Dans ce projet, le jeu est développé pour mobile et doit pouvoir réunir différents joueurs distants sur différentes 
 cartes en fonction du mode de jeu choisi.
 
 ### Contact
@@ -69,7 +69,7 @@ Ayant privilégié le _Collab_ de Unity, nous n'avons pas travaillé via GitHub.
 
 **_ Méthode clé ou git_**
 
-Après avoir récupéré le dossier du projet, vous pouvez lancer Unity. Une fenêtre blanche apparait, proposant d'ouvrir les derniers projets travaillés sur l'ordinateur. Au dessus de la liste des projets, cliquez sur _Open_ et choisissez le projet que vous venez de récupérer.
+Après avoir récupéré le dossier du projet, vous pouvez lancer Unity. Une fenêtre blanche apparaît, proposant d'ouvrir les derniers projets travaillés sur l'ordinateur. Au dessus de la liste des projets, cliquez sur _Open_ et choisissez le projet que vous venez de récupérer.
 Ce projet se lance alors dans Unity. 
 
 ## Utilisation
@@ -145,6 +145,8 @@ En effet, en jeu, lorsque l'hôte tir tous les clients peuvent voir les tirs. Ce
 Un autre problème est la réapparition en multi-joueurs. Si l'on meurt il est impossible de réapparaitre. En tant que clients il faut forcément se déconnecter puis se reconnecter à la partie.
 
 Du côté des bonus, leur apparition est propre aux joueurs. C'est à dire que chaque joueur à des bonus différents qui apparaissent à différents endroits de la carte. 
+
+Il arrive parfois qu'en lançant une partie multijoueur le client ne voit pas le jeu se lancer. La raison vient du fait que son entité joueur n'est pas instanciée (de même pour sa caméra vaisseau...). Malheureusement, nous n'avons pas pu déterminer la cause exacte du problèmes mais nous supposons que celui-ci est dû à un problème de connexion.
 
 ### Évolutions
 Lors de l'élaboration du cahier des charges, de nombreuses fonctionnalités avait été discutées tel que :
