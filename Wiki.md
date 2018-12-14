@@ -65,12 +65,14 @@ Les différentes versions du jeu sont disponibles dans le dépôt Github, dans l
 _Remarque : L'installation pose problèmes sur certains téléphones sans explications_
 
 ### Pour le développeur
-Ayant privilégié le _Collab_ de Unity, nous n'avons pas travaillé via GitHub. 
+Ayant privilégié le _Collab_ de Unity, nous n'avons pas travaillé via GitHub. Cependant, le projet s'y trouve désormais.
 
-**_ Méthode clé ou git_**
-
-Après avoir récupéré le dossier du projet, vous pouvez lancer Unity. Une fenêtre blanche apparaît, proposant d'ouvrir les derniers projets travaillés sur l'ordinateur. Au dessus de la liste des projets, cliquez sur _Open_ et choisissez le projet que vous venez de récupérer.
+Après avoir cloné le dossier du projet, vous pouvez lancer Unity. Une fenêtre blanche apparaît, proposant d'ouvrir les derniers projets travaillés sur l'ordinateur. Au dessus de la liste des projets, cliquez sur _Open_ et choisissez le projet que vous venez de récupérer.
 Ce projet se lance alors dans Unity. 
+Une erreur apparaîtra vous indiquant que vous ne faites pas parti du _Collab_, cette erreur n’empêche pas la modification en local.
+
+Pour activer les services Unity tel que le multi-joueur et le _Collab_, vous devez allez dans l'onglet _Service_ (au niveau de l'inspecteur) et lui attribué un identifiant Unity lié à votre compte. La liste des services possibles s'affiche alors.
+
 
 ## Utilisation
 ### Commandes
